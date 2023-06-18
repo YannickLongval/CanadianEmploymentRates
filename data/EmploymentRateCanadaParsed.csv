@@ -1,0 +1,1761 @@
+,year,typeOfEmployment,sex,province,numEmployed
+0,1976,Full-time employment,Females,Alberta,217.9
+1,1976,Full-time employment,Females,British Columbia,274.6
+2,1976,Full-time employment,Females,Manitoba,119.8
+3,1976,Full-time employment,Females,New Brunswick,62.7
+4,1976,Full-time employment,Females,Newfoundland and Labrador,42.1
+5,1976,Full-time employment,Females,Nova Scotia,84.6
+6,1976,Full-time employment,Females,Ontario,1084.1
+7,1976,Full-time employment,Females,Prince Edward Island,12.7
+8,1976,Full-time employment,Females,Quebec,727.0
+9,1976,Full-time employment,Females,Saskatchewan,93.3
+10,1976,Full-time employment,Males,Alberta,475.8
+11,1976,Full-time employment,Males,British Columbia,602.5
+12,1976,Full-time employment,Males,Manitoba,249.2
+13,1976,Full-time employment,Males,New Brunswick,139.0
+14,1976,Full-time employment,Males,Newfoundland and Labrador,107.8
+15,1976,Full-time employment,Males,Nova Scotia,180.8
+16,1976,Full-time employment,Males,Ontario,2124.9
+17,1976,Full-time employment,Males,Prince Edward Island,24.5
+18,1976,Full-time employment,Males,Quebec,1588.7
+19,1976,Full-time employment,Males,Saskatchewan,218.9
+20,1976,Part-time employment ,Females,Alberta,89.2
+21,1976,Part-time employment ,Females,British Columbia,104.7
+22,1976,Part-time employment ,Females,Manitoba,45.0
+23,1976,Part-time employment ,Females,New Brunswick,21.6
+24,1976,Part-time employment ,Females,Newfoundland and Labrador,8.6
+25,1976,Part-time employment ,Females,Nova Scotia,25.7
+26,1976,Part-time employment ,Females,Ontario,342.6
+27,1976,Part-time employment ,Females,Prince Edward Island,3.8
+28,1976,Part-time employment ,Females,Quebec,152.6
+29,1976,Part-time employment ,Females,Saskatchewan,38.6
+30,1976,Part-time employment ,Males,Alberta,36.7
+31,1976,Part-time employment ,Males,British Columbia,47.9
+32,1976,Part-time employment ,Males,Manitoba,13.4
+33,1976,Part-time employment ,Males,New Brunswick,6.3
+34,1976,Part-time employment ,Males,Newfoundland and Labrador,3.8
+35,1976,Part-time employment ,Males,Nova Scotia,11.9
+36,1976,Part-time employment ,Males,Ontario,155.7
+37,1976,Part-time employment ,Males,Prince Edward Island,1.7
+38,1976,Part-time employment ,Males,Quebec,77.2
+39,1976,Part-time employment ,Males,Saskatchewan,18.7
+40,1977,Full-time employment,Females,Alberta,242.8
+41,1977,Full-time employment,Females,British Columbia,287.0
+42,1977,Full-time employment,Females,Manitoba,121.1
+43,1977,Full-time employment,Females,New Brunswick,61.7
+44,1977,Full-time employment,Females,Newfoundland and Labrador,44.0
+45,1977,Full-time employment,Females,Nova Scotia,87.6
+46,1977,Full-time employment,Females,Ontario,1101.7
+47,1977,Full-time employment,Females,Prince Edward Island,12.3
+48,1977,Full-time employment,Females,Quebec,755.2
+49,1977,Full-time employment,Females,Saskatchewan,96.0
+50,1977,Full-time employment,Males,Alberta,519.2
+51,1977,Full-time employment,Males,British Columbia,634.6
+52,1977,Full-time employment,Males,Manitoba,248.0
+53,1977,Full-time employment,Males,New Brunswick,140.6
+54,1977,Full-time employment,Males,Newfoundland and Labrador,101.5
+55,1977,Full-time employment,Males,Nova Scotia,176.8
+56,1977,Full-time employment,Males,Ontario,2149.1
+57,1977,Full-time employment,Males,Prince Edward Island,25.1
+58,1977,Full-time employment,Males,Quebec,1569.0
+59,1977,Full-time employment,Males,Saskatchewan,241.7
+60,1977,Part-time employment ,Females,Alberta,91.1
+61,1977,Part-time employment ,Females,British Columbia,114.3
+62,1977,Part-time employment ,Females,Manitoba,47.9
+63,1977,Part-time employment ,Females,New Brunswick,19.2
+64,1977,Part-time employment ,Females,Newfoundland and Labrador,8.0
+65,1977,Part-time employment ,Females,Nova Scotia,21.1
+66,1977,Part-time employment ,Females,Ontario,378.4
+67,1977,Part-time employment ,Females,Prince Edward Island,3.9
+68,1977,Part-time employment ,Females,Quebec,168.4
+69,1977,Part-time employment ,Females,Saskatchewan,34.9
+70,1977,Part-time employment ,Males,Alberta,35.3
+71,1977,Part-time employment ,Males,British Columbia,49.2
+72,1977,Part-time employment ,Males,Manitoba,17.9
+73,1977,Part-time employment ,Males,New Brunswick,7.1
+74,1977,Part-time employment ,Males,Newfoundland and Labrador,3.5
+75,1977,Part-time employment ,Males,Nova Scotia,10.6
+76,1977,Part-time employment ,Males,Ontario,147.4
+77,1977,Part-time employment ,Males,Prince Edward Island,2.2
+78,1977,Part-time employment ,Males,Quebec,78.2
+79,1977,Part-time employment ,Males,Saskatchewan,15.6
+80,1978,Full-time employment,Females,Alberta,251.1
+81,1978,Full-time employment,Females,British Columbia,300.1
+82,1978,Full-time employment,Females,Manitoba,123.3
+83,1978,Full-time employment,Females,New Brunswick,64.8
+84,1978,Full-time employment,Females,Newfoundland and Labrador,49.4
+85,1978,Full-time employment,Females,Nova Scotia,86.9
+86,1978,Full-time employment,Females,Ontario,1121.4
+87,1978,Full-time employment,Females,Prince Edward Island,12.1
+88,1978,Full-time employment,Females,Quebec,757.6
+89,1978,Full-time employment,Females,Saskatchewan,99.2
+90,1978,Full-time employment,Males,Alberta,539.9
+91,1978,Full-time employment,Males,British Columbia,644.6
+92,1978,Full-time employment,Males,Manitoba,247.5
+93,1978,Full-time employment,Males,New Brunswick,141.2
+94,1978,Full-time employment,Males,Newfoundland and Labrador,104.2
+95,1978,Full-time employment,Males,Nova Scotia,172.4
+96,1978,Full-time employment,Males,Ontario,2199.9
+97,1978,Full-time employment,Males,Prince Edward Island,25.7
+98,1978,Full-time employment,Males,Quebec,1519.3
+99,1978,Full-time employment,Males,Saskatchewan,231.6
+100,1978,Part-time employment ,Females,Alberta,101.3
+101,1978,Part-time employment ,Females,British Columbia,115.5
+102,1978,Part-time employment ,Females,Manitoba,47.0
+103,1978,Part-time employment ,Females,New Brunswick,18.9
+104,1978,Part-time employment ,Females,Newfoundland and Labrador,8.2
+105,1978,Part-time employment ,Females,Nova Scotia,26.8
+106,1978,Part-time employment ,Females,Ontario,388.9
+107,1978,Part-time employment ,Females,Prince Edward Island,4.4
+108,1978,Part-time employment ,Females,Quebec,178.8
+109,1978,Part-time employment ,Females,Saskatchewan,44.1
+110,1978,Part-time employment ,Males,Alberta,35.6
+111,1978,Part-time employment ,Males,British Columbia,47.6
+112,1978,Part-time employment ,Males,Manitoba,21.2
+113,1978,Part-time employment ,Males,New Brunswick,8.0
+114,1978,Part-time employment ,Males,Newfoundland and Labrador,3.4
+115,1978,Part-time employment ,Males,Nova Scotia,14.5
+116,1978,Part-time employment ,Males,Ontario,148.9
+117,1978,Part-time employment ,Males,Prince Edward Island,1.8
+118,1978,Part-time employment ,Males,Quebec,84.8
+119,1978,Part-time employment ,Males,Saskatchewan,21.0
+120,1979,Full-time employment,Females,Alberta,276.2
+121,1979,Full-time employment,Females,British Columbia,320.7
+122,1979,Full-time employment,Females,Manitoba,126.2
+123,1979,Full-time employment,Females,New Brunswick,71.4
+124,1979,Full-time employment,Females,Newfoundland and Labrador,49.6
+125,1979,Full-time employment,Females,Nova Scotia,88.6
+126,1979,Full-time employment,Females,Ontario,1200.9
+127,1979,Full-time employment,Females,Prince Edward Island,13.1
+128,1979,Full-time employment,Females,Quebec,797.0
+129,1979,Full-time employment,Females,Saskatchewan,104.7
+130,1979,Full-time employment,Males,Alberta,583.9
+131,1979,Full-time employment,Males,British Columbia,665.6
+132,1979,Full-time employment,Males,Manitoba,255.8
+133,1979,Full-time employment,Males,New Brunswick,144.1
+134,1979,Full-time employment,Males,Newfoundland and Labrador,105.2
+135,1979,Full-time employment,Males,Nova Scotia,184.2
+136,1979,Full-time employment,Males,Ontario,2254.1
+137,1979,Full-time employment,Males,Prince Edward Island,25.4
+138,1979,Full-time employment,Males,Quebec,1567.3
+139,1979,Full-time employment,Males,Saskatchewan,240.7
+140,1979,Part-time employment ,Females,Alberta,102.8
+141,1979,Part-time employment ,Females,British Columbia,129.4
+142,1979,Part-time employment ,Females,Manitoba,52.2
+143,1979,Part-time employment ,Females,New Brunswick,21.7
+144,1979,Part-time employment ,Females,Newfoundland and Labrador,11.6
+145,1979,Part-time employment ,Females,Nova Scotia,28.6
+146,1979,Part-time employment ,Females,Ontario,408.1
+147,1979,Part-time employment ,Females,Prince Edward Island,4.4
+148,1979,Part-time employment ,Females,Quebec,192.8
+149,1979,Part-time employment ,Females,Saskatchewan,45.1
+150,1979,Part-time employment ,Males,Alberta,40.1
+151,1979,Part-time employment ,Males,British Columbia,46.4
+152,1979,Part-time employment ,Males,Manitoba,20.5
+153,1979,Part-time employment ,Males,New Brunswick,9.2
+154,1979,Part-time employment ,Males,Newfoundland and Labrador,4.8
+155,1979,Part-time employment ,Males,Nova Scotia,11.3
+156,1979,Part-time employment ,Males,Ontario,173.6
+157,1979,Part-time employment ,Males,Prince Edward Island,2.1
+158,1979,Part-time employment ,Males,Quebec,80.9
+159,1979,Part-time employment ,Males,Saskatchewan,22.9
+160,1980,Full-time employment,Females,Alberta,309.5
+161,1980,Full-time employment,Females,British Columbia,319.7
+162,1980,Full-time employment,Females,Manitoba,128.0
+163,1980,Full-time employment,Females,New Brunswick,73.6
+164,1980,Full-time employment,Females,Newfoundland and Labrador,49.8
+165,1980,Full-time employment,Females,Nova Scotia,95.7
+166,1980,Full-time employment,Females,Ontario,1269.8
+167,1980,Full-time employment,Females,Prince Edward Island,14.7
+168,1980,Full-time employment,Females,Quebec,818.3
+169,1980,Full-time employment,Females,Saskatchewan,106.1
+170,1980,Full-time employment,Males,Alberta,615.6
+171,1980,Full-time employment,Males,British Columbia,692.3
+172,1980,Full-time employment,Males,Manitoba,257.7
+173,1980,Full-time employment,Males,New Brunswick,150.7
+174,1980,Full-time employment,Males,Newfoundland and Labrador,110.8
+175,1980,Full-time employment,Males,Nova Scotia,181.7
+176,1980,Full-time employment,Males,Ontario,2286.7
+177,1980,Full-time employment,Males,Prince Edward Island,27.1
+178,1980,Full-time employment,Males,Quebec,1610.3
+179,1980,Full-time employment,Males,Saskatchewan,242.2
+180,1980,Part-time employment ,Females,Alberta,110.7
+181,1980,Part-time employment ,Females,British Columbia,157.0
+182,1980,Part-time employment ,Females,Manitoba,54.2
+183,1980,Part-time employment ,Females,New Brunswick,23.6
+184,1980,Part-time employment ,Females,Newfoundland and Labrador,12.1
+185,1980,Part-time employment ,Females,Nova Scotia,29.8
+186,1980,Part-time employment ,Females,Ontario,425.5
+187,1980,Part-time employment ,Females,Prince Edward Island,4.6
+188,1980,Part-time employment ,Females,Quebec,220.0
+189,1980,Part-time employment ,Females,Saskatchewan,50.1
+190,1980,Part-time employment ,Males,Alberta,38.5
+191,1980,Part-time employment ,Males,British Columbia,53.6
+192,1980,Part-time employment ,Males,Manitoba,19.8
+193,1980,Part-time employment ,Males,New Brunswick,9.1
+194,1980,Part-time employment ,Males,Newfoundland and Labrador,4.7
+195,1980,Part-time employment ,Males,Nova Scotia,13.1
+196,1980,Part-time employment ,Males,Ontario,164.9
+197,1980,Part-time employment ,Males,Prince Edward Island,2.3
+198,1980,Part-time employment ,Males,Quebec,104.3
+199,1980,Part-time employment ,Males,Saskatchewan,24.2
+200,1981,Full-time employment,Females,Alberta,335.9
+201,1981,Full-time employment,Females,British Columbia,356.2
+202,1981,Full-time employment,Females,Manitoba,132.3
+203,1981,Full-time employment,Females,New Brunswick,75.5
+204,1981,Full-time employment,Females,Newfoundland and Labrador,58.5
+205,1981,Full-time employment,Females,Nova Scotia,96.4
+206,1981,Full-time employment,Females,Ontario,1288.6
+207,1981,Full-time employment,Females,Prince Edward Island,13.8
+208,1981,Full-time employment,Females,Quebec,846.1
+209,1981,Full-time employment,Females,Saskatchewan,106.8
+210,1981,Full-time employment,Males,Alberta,662.3
+211,1981,Full-time employment,Males,British Columbia,757.8
+212,1981,Full-time employment,Males,Manitoba,255.2
+213,1981,Full-time employment,Males,New Brunswick,144.6
+214,1981,Full-time employment,Males,Newfoundland and Labrador,117.4
+215,1981,Full-time employment,Males,Nova Scotia,184.1
+216,1981,Full-time employment,Males,Ontario,2292.5
+217,1981,Full-time employment,Males,Prince Edward Island,25.6
+218,1981,Full-time employment,Males,Quebec,1598.5
+219,1981,Full-time employment,Males,Saskatchewan,244.4
+220,1981,Part-time employment ,Females,Alberta,113.6
+221,1981,Part-time employment ,Females,British Columbia,158.7
+222,1981,Part-time employment ,Females,Manitoba,57.6
+223,1981,Part-time employment ,Females,New Brunswick,25.1
+224,1981,Part-time employment ,Females,Newfoundland and Labrador,11.3
+225,1981,Part-time employment ,Females,Nova Scotia,33.1
+226,1981,Part-time employment ,Females,Ontario,451.4
+227,1981,Part-time employment ,Females,Prince Edward Island,4.9
+228,1981,Part-time employment ,Females,Quebec,233.4
+229,1981,Part-time employment ,Females,Saskatchewan,51.9
+230,1981,Part-time employment ,Males,Alberta,40.5
+231,1981,Part-time employment ,Males,British Columbia,50.1
+232,1981,Part-time employment ,Males,Manitoba,21.7
+233,1981,Part-time employment ,Males,New Brunswick,12.7
+234,1981,Part-time employment ,Males,Newfoundland and Labrador,4.0
+235,1981,Part-time employment ,Males,Nova Scotia,13.5
+236,1981,Part-time employment ,Males,Ontario,193.1
+237,1981,Part-time employment ,Males,Prince Edward Island,2.3
+238,1981,Part-time employment ,Males,Quebec,109.9
+239,1981,Part-time employment ,Males,Saskatchewan,25.1
+240,1982,Full-time employment,Females,Alberta,348.9
+241,1982,Full-time employment,Females,British Columbia,370.1
+242,1982,Full-time employment,Females,Manitoba,136.7
+243,1982,Full-time employment,Females,New Brunswick,74.0
+244,1982,Full-time employment,Females,Newfoundland and Labrador,56.2
+245,1982,Full-time employment,Females,Nova Scotia,99.2
+246,1982,Full-time employment,Females,Ontario,1320.1
+247,1982,Full-time employment,Females,Prince Edward Island,13.5
+248,1982,Full-time employment,Females,Quebec,826.3
+249,1982,Full-time employment,Females,Saskatchewan,112.9
+250,1982,Full-time employment,Males,Alberta,670.7
+251,1982,Full-time employment,Males,British Columbia,703.9
+252,1982,Full-time employment,Males,Manitoba,247.3
+253,1982,Full-time employment,Males,New Brunswick,141.0
+254,1982,Full-time employment,Males,Newfoundland and Labrador,110.1
+255,1982,Full-time employment,Males,Nova Scotia,177.8
+256,1982,Full-time employment,Males,Ontario,2280.3
+257,1982,Full-time employment,Males,Prince Edward Island,25.5
+258,1982,Full-time employment,Males,Quebec,1538.3
+259,1982,Full-time employment,Males,Saskatchewan,237.3
+260,1982,Part-time employment ,Females,Alberta,127.3
+261,1982,Part-time employment ,Females,British Columbia,161.7
+262,1982,Part-time employment ,Females,Manitoba,56.9
+263,1982,Part-time employment ,Females,New Brunswick,27.4
+264,1982,Part-time employment ,Females,Newfoundland and Labrador,13.4
+265,1982,Part-time employment ,Females,Nova Scotia,35.0
+266,1982,Part-time employment ,Females,Ontario,491.6
+267,1982,Part-time employment ,Females,Prince Edward Island,5.7
+268,1982,Part-time employment ,Females,Quebec,243.9
+269,1982,Part-time employment ,Females,Saskatchewan,55.7
+270,1982,Part-time employment ,Males,Alberta,43.0
+271,1982,Part-time employment ,Males,British Columbia,62.1
+272,1982,Part-time employment ,Males,Manitoba,23.1
+273,1982,Part-time employment ,Males,New Brunswick,10.1
+274,1982,Part-time employment ,Males,Newfoundland and Labrador,4.2
+275,1982,Part-time employment ,Males,Nova Scotia,15.1
+276,1982,Part-time employment ,Males,Ontario,192.8
+277,1982,Part-time employment ,Males,Prince Edward Island,2.1
+278,1982,Part-time employment ,Males,Quebec,115.5
+279,1982,Part-time employment ,Males,Saskatchewan,29.0
+280,1983,Full-time employment,Females,Alberta,347.5
+281,1983,Full-time employment,Females,British Columbia,341.3
+282,1983,Full-time employment,Females,Manitoba,136.5
+283,1983,Full-time employment,Females,New Brunswick,72.0
+284,1983,Full-time employment,Females,Newfoundland and Labrador,55.9
+285,1983,Full-time employment,Females,Nova Scotia,93.8
+286,1983,Full-time employment,Females,Ontario,1293.1
+287,1983,Full-time employment,Females,Prince Edward Island,14.9
+288,1983,Full-time employment,Females,Quebec,787.9
+289,1983,Full-time employment,Females,Saskatchewan,108.9
+290,1983,Full-time employment,Males,Alberta,612.1
+291,1983,Full-time employment,Males,British Columbia,643.6
+292,1983,Full-time employment,Males,Manitoba,238.4
+293,1983,Full-time employment,Males,New Brunswick,134.2
+294,1983,Full-time employment,Males,Newfoundland and Labrador,104.8
+295,1983,Full-time employment,Males,Nova Scotia,169.6
+296,1983,Full-time employment,Males,Ontario,2141.9
+297,1983,Full-time employment,Males,Prince Edward Island,25.1
+298,1983,Full-time employment,Males,Quebec,1440.5
+299,1983,Full-time employment,Males,Saskatchewan,231.5
+300,1983,Part-time employment ,Females,Alberta,123.4
+301,1983,Part-time employment ,Females,British Columbia,172.3
+302,1983,Part-time employment ,Females,Manitoba,62.3
+303,1983,Part-time employment ,Females,New Brunswick,30.2
+304,1983,Part-time employment ,Females,Newfoundland and Labrador,13.6
+305,1983,Part-time employment ,Females,Nova Scotia,39.3
+306,1983,Part-time employment ,Females,Ontario,493.6
+307,1983,Part-time employment ,Females,Prince Edward Island,5.0
+308,1983,Part-time employment ,Females,Quebec,254.5
+309,1983,Part-time employment ,Females,Saskatchewan,60.0
+310,1983,Part-time employment ,Males,Alberta,51.1
+311,1983,Part-time employment ,Males,British Columbia,71.3
+312,1983,Part-time employment ,Males,Manitoba,23.4
+313,1983,Part-time employment ,Males,New Brunswick,10.3
+314,1983,Part-time employment ,Males,Newfoundland and Labrador,5.7
+315,1983,Part-time employment ,Males,Nova Scotia,16.7
+316,1983,Part-time employment ,Males,Ontario,215.2
+317,1983,Part-time employment ,Males,Prince Edward Island,2.4
+318,1983,Part-time employment ,Males,Quebec,128.1
+319,1983,Part-time employment ,Males,Saskatchewan,29.2
+320,1984,Full-time employment,Females,Alberta,346.3
+321,1984,Full-time employment,Females,British Columbia,364.3
+322,1984,Full-time employment,Females,Manitoba,137.0
+323,1984,Full-time employment,Females,New Brunswick,75.0
+324,1984,Full-time employment,Females,Newfoundland and Labrador,54.9
+325,1984,Full-time employment,Females,Nova Scotia,102.7
+326,1984,Full-time employment,Females,Ontario,1349.7
+327,1984,Full-time employment,Females,Prince Edward Island,16.1
+328,1984,Full-time employment,Females,Quebec,829.1
+329,1984,Full-time employment,Females,Saskatchewan,114.3
+330,1984,Full-time employment,Males,Alberta,598.8
+331,1984,Full-time employment,Males,British Columbia,647.3
+332,1984,Full-time employment,Males,Manitoba,246.2
+333,1984,Full-time employment,Males,New Brunswick,135.6
+334,1984,Full-time employment,Males,Newfoundland and Labrador,101.4
+335,1984,Full-time employment,Males,Nova Scotia,176.8
+336,1984,Full-time employment,Males,Ontario,2244.3
+337,1984,Full-time employment,Males,Prince Edward Island,26.1
+338,1984,Full-time employment,Males,Quebec,1500.6
+339,1984,Full-time employment,Males,Saskatchewan,231.2
+340,1984,Part-time employment ,Females,Alberta,132.6
+341,1984,Part-time employment ,Females,British Columbia,158.1
+342,1984,Part-time employment ,Females,Manitoba,65.9
+343,1984,Part-time employment ,Females,New Brunswick,28.2
+344,1984,Part-time employment ,Females,Newfoundland and Labrador,13.4
+345,1984,Part-time employment ,Females,Nova Scotia,37.0
+346,1984,Part-time employment ,Females,Ontario,514.1
+347,1984,Part-time employment ,Females,Prince Edward Island,5.1
+348,1984,Part-time employment ,Females,Quebec,273.3
+349,1984,Part-time employment ,Females,Saskatchewan,64.0
+350,1984,Part-time employment ,Males,Alberta,54.7
+351,1984,Part-time employment ,Males,British Columbia,73.3
+352,1984,Part-time employment ,Males,Manitoba,26.3
+353,1984,Part-time employment ,Males,New Brunswick,12.2
+354,1984,Part-time employment ,Males,Newfoundland and Labrador,6.2
+355,1984,Part-time employment ,Males,Nova Scotia,16.5
+356,1984,Part-time employment ,Males,Ontario,230.3
+357,1984,Part-time employment ,Males,Prince Edward Island,2.7
+358,1984,Part-time employment ,Males,Quebec,126.9
+359,1984,Part-time employment ,Males,Saskatchewan,30.2
+360,1985,Full-time employment,Females,Alberta,349.1
+361,1985,Full-time employment,Females,British Columbia,381.3
+362,1985,Full-time employment,Females,Manitoba,145.0
+363,1985,Full-time employment,Females,New Brunswick,76.6
+364,1985,Full-time employment,Females,Newfoundland and Labrador,56.7
+365,1985,Full-time employment,Females,Nova Scotia,103.7
+366,1985,Full-time employment,Females,Ontario,1407.4
+367,1985,Full-time employment,Females,Prince Edward Island,15.2
+368,1985,Full-time employment,Females,Quebec,847.3
+369,1985,Full-time employment,Females,Saskatchewan,119.6
+370,1985,Full-time employment,Males,Alberta,607.2
+371,1985,Full-time employment,Males,British Columbia,655.4
+372,1985,Full-time employment,Males,Manitoba,252.1
+373,1985,Full-time employment,Males,New Brunswick,138.0
+374,1985,Full-time employment,Males,Newfoundland and Labrador,102.5
+375,1985,Full-time employment,Males,Nova Scotia,180.9
+376,1985,Full-time employment,Males,Ontario,2337.5
+377,1985,Full-time employment,Males,Prince Edward Island,25.7
+378,1985,Full-time employment,Males,Quebec,1520.6
+379,1985,Full-time employment,Males,Saskatchewan,233.3
+380,1985,Part-time employment ,Females,Alberta,149.7
+381,1985,Part-time employment ,Females,British Columbia,161.1
+382,1985,Part-time employment ,Females,Manitoba,60.4
+383,1985,Part-time employment ,Females,New Brunswick,29.2
+384,1985,Part-time employment ,Females,Newfoundland and Labrador,14.7
+385,1985,Part-time employment ,Females,Nova Scotia,39.5
+386,1985,Part-time employment ,Females,Ontario,529.8
+387,1985,Part-time employment ,Females,Prince Edward Island,5.9
+388,1985,Part-time employment ,Females,Quebec,303.7
+389,1985,Part-time employment ,Females,Saskatchewan,61.9
+390,1985,Part-time employment ,Males,Alberta,62.5
+391,1985,Part-time employment ,Males,British Columbia,69.8
+392,1985,Part-time employment ,Males,Manitoba,24.3
+393,1985,Part-time employment ,Males,New Brunswick,12.5
+394,1985,Part-time employment ,Males,Newfoundland and Labrador,6.2
+395,1985,Part-time employment ,Males,Nova Scotia,17.4
+396,1985,Part-time employment ,Males,Ontario,216.5
+397,1985,Part-time employment ,Males,Prince Edward Island,2.4
+398,1985,Part-time employment ,Males,Quebec,129.6
+399,1985,Part-time employment ,Males,Saskatchewan,29.8
+400,1986,Full-time employment,Females,Alberta,365.3
+401,1986,Full-time employment,Females,British Columbia,381.1
+402,1986,Full-time employment,Females,Manitoba,150.6
+403,1986,Full-time employment,Females,New Brunswick,82.6
+404,1986,Full-time employment,Females,Newfoundland and Labrador,60.8
+405,1986,Full-time employment,Females,Nova Scotia,104.4
+406,1986,Full-time employment,Females,Ontario,1477.8
+407,1986,Full-time employment,Females,Prince Edward Island,15.8
+408,1986,Full-time employment,Females,Quebec,900.4
+409,1986,Full-time employment,Females,Saskatchewan,126.8
+410,1986,Full-time employment,Males,Alberta,635.1
+411,1986,Full-time employment,Males,British Columbia,677.3
+412,1986,Full-time employment,Males,Manitoba,255.1
+413,1986,Full-time employment,Males,New Brunswick,143.3
+414,1986,Full-time employment,Males,Newfoundland and Labrador,106.3
+415,1986,Full-time employment,Males,Nova Scotia,185.6
+416,1986,Full-time employment,Males,Ontario,2431.8
+417,1986,Full-time employment,Males,Prince Edward Island,26.8
+418,1986,Full-time employment,Males,Quebec,1543.1
+419,1986,Full-time employment,Males,Saskatchewan,241.1
+420,1986,Part-time employment ,Females,Alberta,142.8
+421,1986,Part-time employment ,Females,British Columbia,174.4
+422,1986,Part-time employment ,Females,Manitoba,65.6
+423,1986,Part-time employment ,Females,New Brunswick,30.6
+424,1986,Part-time employment ,Females,Newfoundland and Labrador,16.3
+425,1986,Part-time employment ,Females,Nova Scotia,43.8
+426,1986,Part-time employment ,Females,Ontario,548.9
+427,1986,Part-time employment ,Females,Prince Edward Island,6.1
+428,1986,Part-time employment ,Females,Quebec,319.1
+429,1986,Part-time employment ,Females,Saskatchewan,67.9
+430,1986,Part-time employment ,Males,Alberta,53.7
+431,1986,Part-time employment ,Males,British Columbia,74.7
+432,1986,Part-time employment ,Males,Manitoba,26.0
+433,1986,Part-time employment ,Males,New Brunswick,11.7
+434,1986,Part-time employment ,Males,Newfoundland and Labrador,5.0
+435,1986,Part-time employment ,Males,Nova Scotia,15.9
+436,1986,Part-time employment ,Males,Ontario,214.0
+437,1986,Part-time employment ,Males,Prince Edward Island,2.4
+438,1986,Part-time employment ,Males,Quebec,144.7
+439,1986,Part-time employment ,Males,Saskatchewan,28.7
+440,1987,Full-time employment,Females,Alberta,368.2
+441,1987,Full-time employment,Females,British Columbia,381.3
+442,1987,Full-time employment,Females,Manitoba,152.2
+443,1987,Full-time employment,Females,New Brunswick,85.3
+444,1987,Full-time employment,Females,Newfoundland and Labrador,60.7
+445,1987,Full-time employment,Females,Nova Scotia,107.1
+446,1987,Full-time employment,Females,Ontario,1527.1
+447,1987,Full-time employment,Females,Prince Edward Island,17.2
+448,1987,Full-time employment,Females,Quebec,930.9
+449,1987,Full-time employment,Females,Saskatchewan,129.0
+450,1987,Full-time employment,Males,Alberta,600.6
+451,1987,Full-time employment,Males,British Columbia,676.8
+452,1987,Full-time employment,Males,Manitoba,250.3
+453,1987,Full-time employment,Males,New Brunswick,142.6
+454,1987,Full-time employment,Males,Newfoundland and Labrador,100.9
+455,1987,Full-time employment,Males,Nova Scotia,185.0
+456,1987,Full-time employment,Males,Ontario,2490.6
+457,1987,Full-time employment,Males,Prince Edward Island,27.3
+458,1987,Full-time employment,Males,Quebec,1589.1
+459,1987,Full-time employment,Males,Saskatchewan,236.7
+460,1987,Part-time employment ,Females,Alberta,143.7
+461,1987,Part-time employment ,Females,British Columbia,187.3
+462,1987,Part-time employment ,Females,Manitoba,69.7
+463,1987,Part-time employment ,Females,New Brunswick,33.3
+464,1987,Part-time employment ,Females,Newfoundland and Labrador,15.1
+465,1987,Part-time employment ,Females,Nova Scotia,41.4
+466,1987,Part-time employment ,Females,Ontario,559.5
+467,1987,Part-time employment ,Females,Prince Edward Island,5.5
+468,1987,Part-time employment ,Females,Quebec,308.8
+469,1987,Part-time employment ,Females,Saskatchewan,65.6
+470,1987,Part-time employment ,Males,Alberta,57.0
+471,1987,Part-time employment ,Males,British Columbia,83.2
+472,1987,Part-time employment ,Males,Manitoba,29.2
+473,1987,Part-time employment ,Males,New Brunswick,13.8
+474,1987,Part-time employment ,Males,Newfoundland and Labrador,7.1
+475,1987,Part-time employment ,Males,Nova Scotia,17.8
+476,1987,Part-time employment ,Males,Ontario,231.3
+477,1987,Part-time employment ,Males,Prince Edward Island,3.2
+478,1987,Part-time employment ,Males,Quebec,141.9
+479,1987,Part-time employment ,Males,Saskatchewan,28.5
+480,1988,Full-time employment,Females,Alberta,378.5
+481,1988,Full-time employment,Females,British Columbia,416.8
+482,1988,Full-time employment,Females,Manitoba,160.6
+483,1988,Full-time employment,Females,New Brunswick,88.4
+484,1988,Full-time employment,Females,Newfoundland and Labrador,63.3
+485,1988,Full-time employment,Females,Nova Scotia,115.1
+486,1988,Full-time employment,Females,Ontario,1625.3
+487,1988,Full-time employment,Females,Prince Edward Island,17.3
+488,1988,Full-time employment,Females,Quebec,959.9
+489,1988,Full-time employment,Females,Saskatchewan,124.8
+490,1988,Full-time employment,Males,Alberta,621.4
+491,1988,Full-time employment,Males,British Columbia,738.6
+492,1988,Full-time employment,Males,Manitoba,250.1
+493,1988,Full-time employment,Males,New Brunswick,151.3
+494,1988,Full-time employment,Males,Newfoundland and Labrador,107.4
+495,1988,Full-time employment,Males,Nova Scotia,189.5
+496,1988,Full-time employment,Males,Ontario,2576.3
+497,1988,Full-time employment,Males,Prince Edward Island,27.2
+498,1988,Full-time employment,Males,Quebec,1648.1
+499,1988,Full-time employment,Males,Saskatchewan,234.5
+500,1988,Part-time employment ,Females,Alberta,153.2
+501,1988,Part-time employment ,Females,British Columbia,191.4
+502,1988,Part-time employment ,Females,Manitoba,65.3
+503,1988,Part-time employment ,Females,New Brunswick,36.1
+504,1988,Part-time employment ,Females,Newfoundland and Labrador,16.8
+505,1988,Part-time employment ,Females,Nova Scotia,41.5
+506,1988,Part-time employment ,Females,Ontario,579.5
+507,1988,Part-time employment ,Females,Prince Edward Island,6.1
+508,1988,Part-time employment ,Females,Quebec,325.9
+509,1988,Part-time employment ,Females,Saskatchewan,75.2
+510,1988,Part-time employment ,Males,Alberta,54.6
+511,1988,Part-time employment ,Males,British Columbia,77.5
+512,1988,Part-time employment ,Males,Manitoba,28.9
+513,1988,Part-time employment ,Males,New Brunswick,11.6
+514,1988,Part-time employment ,Males,Newfoundland and Labrador,8.2
+515,1988,Part-time employment ,Males,Nova Scotia,18.0
+516,1988,Part-time employment ,Males,Ontario,248.6
+517,1988,Part-time employment ,Males,Prince Edward Island,3.2
+518,1988,Part-time employment ,Males,Quebec,136.8
+519,1988,Part-time employment ,Males,Saskatchewan,29.0
+520,1989,Full-time employment,Females,Alberta,387.3
+521,1989,Full-time employment,Females,British Columbia,442.0
+522,1989,Full-time employment,Females,Manitoba,155.9
+523,1989,Full-time employment,Females,New Brunswick,96.7
+524,1989,Full-time employment,Females,Newfoundland and Labrador,65.1
+525,1989,Full-time employment,Females,Nova Scotia,117.6
+526,1989,Full-time employment,Females,Ontario,1718.3
+527,1989,Full-time employment,Females,Prince Edward Island,18.7
+528,1989,Full-time employment,Females,Quebec,996.1
+529,1989,Full-time employment,Females,Saskatchewan,129.3
+530,1989,Full-time employment,Males,Alberta,626.2
+531,1989,Full-time employment,Males,British Columbia,753.3
+532,1989,Full-time employment,Males,Manitoba,255.3
+533,1989,Full-time employment,Males,New Brunswick,152.3
+534,1989,Full-time employment,Males,Newfoundland and Labrador,112.4
+535,1989,Full-time employment,Males,Nova Scotia,198.2
+536,1989,Full-time employment,Males,Ontario,2616.1
+537,1989,Full-time employment,Males,Prince Edward Island,28.8
+538,1989,Full-time employment,Males,Quebec,1645.3
+539,1989,Full-time employment,Males,Saskatchewan,227.3
+540,1989,Part-time employment ,Females,Alberta,158.4
+541,1989,Part-time employment ,Females,British Columbia,192.6
+542,1989,Part-time employment ,Females,Manitoba,71.7
+543,1989,Part-time employment ,Females,New Brunswick,33.4
+544,1989,Part-time employment ,Females,Newfoundland and Labrador,17.3
+545,1989,Part-time employment ,Females,Nova Scotia,48.1
+546,1989,Part-time employment ,Females,Ontario,606.5
+547,1989,Part-time employment ,Females,Prince Edward Island,6.1
+548,1989,Part-time employment ,Females,Quebec,330.9
+549,1989,Part-time employment ,Females,Saskatchewan,69.0
+550,1989,Part-time employment ,Males,Alberta,64.1
+551,1989,Part-time employment ,Males,British Columbia,84.4
+552,1989,Part-time employment ,Males,Manitoba,30.4
+553,1989,Part-time employment ,Males,New Brunswick,13.2
+554,1989,Part-time employment ,Males,Newfoundland and Labrador,7.3
+555,1989,Part-time employment ,Males,Nova Scotia,18.9
+556,1989,Part-time employment ,Males,Ontario,250.7
+557,1989,Part-time employment ,Males,Prince Edward Island,2.9
+558,1989,Part-time employment ,Males,Quebec,140.1
+559,1989,Part-time employment ,Males,Saskatchewan,33.9
+560,1990,Full-time employment,Females,Alberta,398.9
+561,1990,Full-time employment,Females,British Columbia,493.5
+562,1990,Full-time employment,Females,Manitoba,157.8
+563,1990,Full-time employment,Females,New Brunswick,99.9
+564,1990,Full-time employment,Females,Newfoundland and Labrador,71.2
+565,1990,Full-time employment,Females,Nova Scotia,124.9
+566,1990,Full-time employment,Females,Ontario,1735.6
+567,1990,Full-time employment,Females,Prince Edward Island,18.3
+568,1990,Full-time employment,Females,Quebec,1016.5
+569,1990,Full-time employment,Females,Saskatchewan,128.5
+570,1990,Full-time employment,Males,Alberta,649.6
+571,1990,Full-time employment,Males,British Columbia,788.8
+572,1990,Full-time employment,Males,Manitoba,254.7
+573,1990,Full-time employment,Males,New Brunswick,155.9
+574,1990,Full-time employment,Males,Newfoundland and Labrador,110.5
+575,1990,Full-time employment,Males,Nova Scotia,190.9
+576,1990,Full-time employment,Males,Ontario,2619.6
+577,1990,Full-time employment,Males,Prince Edward Island,26.5
+578,1990,Full-time employment,Males,Quebec,1641.6
+579,1990,Full-time employment,Males,Saskatchewan,224.1
+580,1990,Part-time employment ,Females,Alberta,159.6
+581,1990,Part-time employment ,Females,British Columbia,190.2
+582,1990,Part-time employment ,Females,Manitoba,74.0
+583,1990,Part-time employment ,Females,New Brunswick,32.4
+584,1990,Part-time employment ,Females,Newfoundland and Labrador,18.3
+585,1990,Part-time employment ,Females,Nova Scotia,47.2
+586,1990,Part-time employment ,Females,Ontario,609.9
+587,1990,Part-time employment ,Females,Prince Edward Island,6.7
+588,1990,Part-time employment ,Females,Quebec,333.6
+589,1990,Part-time employment ,Females,Saskatchewan,66.4
+590,1990,Part-time employment ,Males,Alberta,60.5
+591,1990,Part-time employment ,Males,British Columbia,85.9
+592,1990,Part-time employment ,Males,Manitoba,30.5
+593,1990,Part-time employment ,Males,New Brunswick,12.8
+594,1990,Part-time employment ,Males,Newfoundland and Labrador,6.9
+595,1990,Part-time employment ,Males,Nova Scotia,21.1
+596,1990,Part-time employment ,Males,Ontario,259.1
+597,1990,Part-time employment ,Males,Prince Edward Island,3.1
+598,1990,Part-time employment ,Males,Quebec,144.0
+599,1990,Part-time employment ,Males,Saskatchewan,32.0
+600,1991,Full-time employment,Females,Alberta,408.5
+601,1991,Full-time employment,Females,British Columbia,488.3
+602,1991,Full-time employment,Females,Manitoba,156.0
+603,1991,Full-time employment,Females,New Brunswick,98.3
+604,1991,Full-time employment,Females,Newfoundland and Labrador,72.4
+605,1991,Full-time employment,Females,Nova Scotia,124.3
+606,1991,Full-time employment,Females,Ontario,1659.0
+607,1991,Full-time employment,Females,Prince Edward Island,17.6
+608,1991,Full-time employment,Females,Quebec,1007.2
+609,1991,Full-time employment,Females,Saskatchewan,131.7
+610,1991,Full-time employment,Males,Alberta,650.6
+611,1991,Full-time employment,Males,British Columbia,775.8
+612,1991,Full-time employment,Males,Manitoba,246.0
+613,1991,Full-time employment,Males,New Brunswick,152.2
+614,1991,Full-time employment,Males,Newfoundland and Labrador,106.7
+615,1991,Full-time employment,Males,Nova Scotia,194.4
+616,1991,Full-time employment,Males,Ontario,2476.7
+617,1991,Full-time employment,Males,Prince Edward Island,26.5
+618,1991,Full-time employment,Males,Quebec,1583.1
+619,1991,Full-time employment,Males,Saskatchewan,220.8
+620,1991,Part-time employment ,Females,Alberta,159.9
+621,1991,Part-time employment ,Females,British Columbia,206.3
+622,1991,Part-time employment ,Females,Manitoba,74.1
+623,1991,Part-time employment ,Females,New Brunswick,36.0
+624,1991,Part-time employment ,Females,Newfoundland and Labrador,19.1
+625,1991,Part-time employment ,Females,Nova Scotia,47.9
+626,1991,Part-time employment ,Females,Ontario,645.5
+627,1991,Part-time employment ,Females,Prince Edward Island,6.6
+628,1991,Part-time employment ,Females,Quebec,345.0
+629,1991,Part-time employment ,Females,Saskatchewan,68.6
+630,1991,Part-time employment ,Males,Alberta,60.6
+631,1991,Part-time employment ,Males,British Columbia,88.3
+632,1991,Part-time employment ,Males,Manitoba,30.8
+633,1991,Part-time employment ,Males,New Brunswick,14.5
+634,1991,Part-time employment ,Males,Newfoundland and Labrador,8.1
+635,1991,Part-time employment ,Males,Nova Scotia,21.1
+636,1991,Part-time employment ,Males,Ontario,271.5
+637,1991,Part-time employment ,Males,Prince Edward Island,2.8
+638,1991,Part-time employment ,Males,Quebec,158.3
+639,1991,Part-time employment ,Males,Saskatchewan,33.1
+640,1992,Full-time employment,Females,Alberta,407.9
+641,1992,Full-time employment,Females,British Columbia,503.1
+642,1992,Full-time employment,Females,Manitoba,153.1
+643,1992,Full-time employment,Females,New Brunswick,96.4
+644,1992,Full-time employment,Females,Newfoundland and Labrador,72.5
+645,1992,Full-time employment,Females,Nova Scotia,122.0
+646,1992,Full-time employment,Females,Ontario,1673.2
+647,1992,Full-time employment,Females,Prince Edward Island,18.1
+648,1992,Full-time employment,Females,Quebec,1008.3
+649,1992,Full-time employment,Females,Saskatchewan,124.4
+650,1992,Full-time employment,Males,Alberta,639.9
+651,1992,Full-time employment,Males,British Columbia,783.3
+652,1992,Full-time employment,Males,Manitoba,236.1
+653,1992,Full-time employment,Males,New Brunswick,146.7
+654,1992,Full-time employment,Males,Newfoundland and Labrador,104.3
+655,1992,Full-time employment,Males,Nova Scotia,184.6
+656,1992,Full-time employment,Males,Ontario,2400.5
+657,1992,Full-time employment,Males,Prince Edward Island,24.7
+658,1992,Full-time employment,Males,Quebec,1521.8
+659,1992,Full-time employment,Males,Saskatchewan,220.5
+660,1992,Part-time employment ,Females,Alberta,167.0
+661,1992,Part-time employment ,Females,British Columbia,213.9
+662,1992,Part-time employment ,Females,Manitoba,79.2
+663,1992,Part-time employment ,Females,New Brunswick,33.5
+664,1992,Part-time employment ,Females,Newfoundland and Labrador,18.0
+665,1992,Part-time employment ,Females,Nova Scotia,48.8
+666,1992,Part-time employment ,Females,Ontario,611.3
+667,1992,Part-time employment ,Females,Prince Edward Island,6.4
+668,1992,Part-time employment ,Females,Quebec,353.6
+669,1992,Part-time employment ,Females,Saskatchewan,77.6
+670,1992,Part-time employment ,Males,Alberta,66.5
+671,1992,Part-time employment ,Males,British Columbia,90.3
+672,1992,Part-time employment ,Males,Manitoba,35.0
+673,1992,Part-time employment ,Males,New Brunswick,13.8
+674,1992,Part-time employment ,Males,Newfoundland and Labrador,8.7
+675,1992,Part-time employment ,Males,Nova Scotia,19.6
+676,1992,Part-time employment ,Males,Ontario,297.1
+677,1992,Part-time employment ,Males,Prince Edward Island,2.8
+678,1992,Part-time employment ,Males,Quebec,175.6
+679,1992,Part-time employment ,Males,Saskatchewan,30.2
+680,1993,Full-time employment,Females,Alberta,408.8
+681,1993,Full-time employment,Females,British Columbia,514.3
+682,1993,Full-time employment,Females,Manitoba,158.2
+683,1993,Full-time employment,Females,New Brunswick,99.5
+684,1993,Full-time employment,Females,Newfoundland and Labrador,62.3
+685,1993,Full-time employment,Females,Nova Scotia,125.2
+686,1993,Full-time employment,Females,Ontario,1625.3
+687,1993,Full-time employment,Females,Prince Edward Island,18.7
+688,1993,Full-time employment,Females,Quebec,990.7
+689,1993,Full-time employment,Females,Saskatchewan,128.4
+690,1993,Full-time employment,Males,Alberta,631.2
+691,1993,Full-time employment,Males,British Columbia,801.7
+692,1993,Full-time employment,Males,Manitoba,239.4
+693,1993,Full-time employment,Males,New Brunswick,149.4
+694,1993,Full-time employment,Males,Newfoundland and Labrador,97.9
+695,1993,Full-time employment,Males,Nova Scotia,176.1
+696,1993,Full-time employment,Males,Ontario,2384.7
+697,1993,Full-time employment,Males,Prince Edward Island,25.9
+698,1993,Full-time employment,Males,Quebec,1520.8
+699,1993,Full-time employment,Males,Saskatchewan,210.5
+700,1993,Part-time employment ,Females,Alberta,168.4
+701,1993,Part-time employment ,Females,British Columbia,223.0
+702,1993,Part-time employment ,Females,Manitoba,72.0
+703,1993,Part-time employment ,Females,New Brunswick,35.9
+704,1993,Part-time employment ,Females,Newfoundland and Labrador,21.0
+705,1993,Part-time employment ,Females,Nova Scotia,43.3
+706,1993,Part-time employment ,Females,Ontario,651.1
+707,1993,Part-time employment ,Females,Prince Edward Island,7.3
+708,1993,Part-time employment ,Females,Quebec,346.3
+709,1993,Part-time employment ,Females,Saskatchewan,75.0
+710,1993,Part-time employment ,Males,Alberta,73.9
+711,1993,Part-time employment ,Males,British Columbia,98.3
+712,1993,Part-time employment ,Males,Manitoba,35.0
+713,1993,Part-time employment ,Males,New Brunswick,16.1
+714,1993,Part-time employment ,Males,Newfoundland and Labrador,10.3
+715,1993,Part-time employment ,Males,Nova Scotia,20.9
+716,1993,Part-time employment ,Males,Ontario,288.7
+717,1993,Part-time employment ,Males,Prince Edward Island,3.4
+718,1993,Part-time employment ,Males,Quebec,163.3
+719,1993,Part-time employment ,Males,Saskatchewan,32.6
+720,1994,Full-time employment,Females,Alberta,400.2
+721,1994,Full-time employment,Females,British Columbia,526.6
+722,1994,Full-time employment,Females,Manitoba,150.8
+723,1994,Full-time employment,Females,New Brunswick,95.4
+724,1994,Full-time employment,Females,Newfoundland and Labrador,65.7
+725,1994,Full-time employment,Females,Nova Scotia,118.4
+726,1994,Full-time employment,Females,Ontario,1632.3
+727,1994,Full-time employment,Females,Prince Edward Island,19.3
+728,1994,Full-time employment,Females,Quebec,999.3
+729,1994,Full-time employment,Females,Saskatchewan,133.0
+730,1994,Full-time employment,Males,Alberta,642.4
+731,1994,Full-time employment,Males,British Columbia,820.2
+732,1994,Full-time employment,Males,Manitoba,239.9
+733,1994,Full-time employment,Males,New Brunswick,148.6
+734,1994,Full-time employment,Males,Newfoundland and Labrador,96.0
+735,1994,Full-time employment,Males,Nova Scotia,169.2
+736,1994,Full-time employment,Males,Ontario,2360.2
+737,1994,Full-time employment,Males,Prince Edward Island,26.1
+738,1994,Full-time employment,Males,Quebec,1517.6
+739,1994,Full-time employment,Males,Saskatchewan,212.1
+740,1994,Part-time employment ,Females,Alberta,184.2
+741,1994,Part-time employment ,Females,British Columbia,247.4
+742,1994,Part-time employment ,Females,Manitoba,77.8
+743,1994,Part-time employment ,Females,New Brunswick,38.1
+744,1994,Part-time employment ,Females,Newfoundland and Labrador,19.6
+745,1994,Part-time employment ,Females,Nova Scotia,54.3
+746,1994,Part-time employment ,Females,Ontario,641.7
+747,1994,Part-time employment ,Females,Prince Edward Island,6.4
+748,1994,Part-time employment ,Females,Quebec,363.4
+749,1994,Part-time employment ,Females,Saskatchewan,71.2
+750,1994,Part-time employment ,Males,Alberta,77.2
+751,1994,Part-time employment ,Males,British Columbia,116.3
+752,1994,Part-time employment ,Males,Manitoba,32.4
+753,1994,Part-time employment ,Males,New Brunswick,14.2
+754,1994,Part-time employment ,Males,Newfoundland and Labrador,11.4
+755,1994,Part-time employment ,Males,Nova Scotia,23.0
+756,1994,Part-time employment ,Males,Ontario,292.0
+757,1994,Part-time employment ,Males,Prince Edward Island,3.7
+758,1994,Part-time employment ,Males,Quebec,173.3
+759,1994,Part-time employment ,Males,Saskatchewan,35.6
+760,1995,Full-time employment,Females,Alberta,426.1
+761,1995,Full-time employment,Females,British Columbia,575.0
+762,1995,Full-time employment,Females,Manitoba,154.9
+763,1995,Full-time employment,Females,New Brunswick,103.4
+764,1995,Full-time employment,Females,Newfoundland and Labrador,69.6
+765,1995,Full-time employment,Females,Nova Scotia,124.5
+766,1995,Full-time employment,Females,Ontario,1681.8
+767,1995,Full-time employment,Females,Prince Edward Island,19.6
+768,1995,Full-time employment,Females,Quebec,1028.9
+769,1995,Full-time employment,Females,Saskatchewan,135.7
+770,1995,Full-time employment,Males,Alberta,674.4
+771,1995,Full-time employment,Males,British Columbia,867.2
+772,1995,Full-time employment,Males,Manitoba,245.1
+773,1995,Full-time employment,Males,New Brunswick,149.8
+774,1995,Full-time employment,Males,Newfoundland and Labrador,97.3
+775,1995,Full-time employment,Males,Nova Scotia,183.6
+776,1995,Full-time employment,Males,Ontario,2441.7
+777,1995,Full-time employment,Males,Prince Edward Island,26.8
+778,1995,Full-time employment,Males,Quebec,1573.1
+779,1995,Full-time employment,Males,Saskatchewan,224.1
+780,1995,Part-time employment ,Females,Alberta,186.8
+781,1995,Part-time employment ,Females,British Columbia,236.7
+782,1995,Part-time employment ,Females,Manitoba,79.1
+783,1995,Part-time employment ,Females,New Brunswick,36.4
+784,1995,Part-time employment ,Females,Newfoundland and Labrador,20.4
+785,1995,Part-time employment ,Females,Nova Scotia,46.9
+786,1995,Part-time employment ,Females,Ontario,654.3
+787,1995,Part-time employment ,Females,Prince Edward Island,6.8
+788,1995,Part-time employment ,Females,Quebec,362.5
+789,1995,Part-time employment ,Females,Saskatchewan,68.7
+790,1995,Part-time employment ,Males,Alberta,67.4
+791,1995,Part-time employment ,Males,British Columbia,100.2
+792,1995,Part-time employment ,Males,Manitoba,32.9
+793,1995,Part-time employment ,Males,New Brunswick,16.6
+794,1995,Part-time employment ,Males,Newfoundland and Labrador,9.9
+795,1995,Part-time employment ,Males,Nova Scotia,21.0
+796,1995,Part-time employment ,Males,Ontario,318.8
+797,1995,Part-time employment ,Males,Prince Edward Island,2.7
+798,1995,Part-time employment ,Males,Quebec,168.2
+799,1995,Part-time employment ,Males,Saskatchewan,30.5
+800,1996,Full-time employment,Females,Alberta,436.6
+801,1996,Full-time employment,Females,British Columbia,537.4
+802,1996,Full-time employment,Females,Manitoba,160.3
+803,1996,Full-time employment,Females,New Brunswick,106.2
+804,1996,Full-time employment,Females,Newfoundland and Labrador,67.5
+805,1996,Full-time employment,Females,Nova Scotia,121.0
+806,1996,Full-time employment,Females,Ontario,1678.7
+807,1996,Full-time employment,Females,Prince Edward Island,20.1
+808,1996,Full-time employment,Females,Quebec,1048.5
+809,1996,Full-time employment,Females,Saskatchewan,134.5
+810,1996,Full-time employment,Males,Alberta,674.3
+811,1996,Full-time employment,Males,British Columbia,879.8
+812,1996,Full-time employment,Males,Manitoba,247.8
+813,1996,Full-time employment,Males,New Brunswick,150.1
+814,1996,Full-time employment,Males,Newfoundland and Labrador,92.8
+815,1996,Full-time employment,Males,Nova Scotia,178.9
+816,1996,Full-time employment,Males,Ontario,2470.6
+817,1996,Full-time employment,Males,Prince Edward Island,27.3
+818,1996,Full-time employment,Males,Quebec,1563.9
+819,1996,Full-time employment,Males,Saskatchewan,218.7
+820,1996,Part-time employment ,Females,Alberta,191.9
+821,1996,Part-time employment ,Females,British Columbia,262.0
+822,1996,Part-time employment ,Females,Manitoba,73.2
+823,1996,Part-time employment ,Females,New Brunswick,35.2
+824,1996,Part-time employment ,Females,Newfoundland and Labrador,20.1
+825,1996,Part-time employment ,Females,Nova Scotia,51.5
+826,1996,Part-time employment ,Females,Ontario,677.5
+827,1996,Part-time employment ,Females,Prince Edward Island,7.1
+828,1996,Part-time employment ,Females,Quebec,367.4
+829,1996,Part-time employment ,Females,Saskatchewan,68.5
+830,1996,Part-time employment ,Males,Alberta,83.1
+831,1996,Part-time employment ,Males,British Columbia,111.6
+832,1996,Part-time employment ,Males,Manitoba,32.8
+833,1996,Part-time employment ,Males,New Brunswick,14.1
+834,1996,Part-time employment ,Males,Newfoundland and Labrador,11.8
+835,1996,Part-time employment ,Males,Nova Scotia,27.4
+836,1996,Part-time employment ,Males,Ontario,308.0
+837,1996,Part-time employment ,Males,Prince Edward Island,4.6
+838,1996,Part-time employment ,Males,Quebec,181.7
+839,1996,Part-time employment ,Males,Saskatchewan,30.0
+840,1997,Full-time employment,Females,Alberta,440.8
+841,1997,Full-time employment,Females,British Columbia,575.6
+842,1997,Full-time employment,Females,Manitoba,158.7
+843,1997,Full-time employment,Females,New Brunswick,100.2
+844,1997,Full-time employment,Females,Newfoundland and Labrador,66.3
+845,1997,Full-time employment,Females,Nova Scotia,121.4
+846,1997,Full-time employment,Females,Ontario,1719.6
+847,1997,Full-time employment,Females,Prince Edward Island,19.8
+848,1997,Full-time employment,Females,Quebec,1014.1
+849,1997,Full-time employment,Females,Saskatchewan,135.3
+850,1997,Full-time employment,Males,Alberta,716.6
+851,1997,Full-time employment,Males,British Columbia,892.6
+852,1997,Full-time employment,Males,Manitoba,254.5
+853,1997,Full-time employment,Males,New Brunswick,147.5
+854,1997,Full-time employment,Males,Newfoundland and Labrador,90.5
+855,1997,Full-time employment,Males,Nova Scotia,177.8
+856,1997,Full-time employment,Males,Ontario,2498.9
+857,1997,Full-time employment,Males,Prince Edward Island,27.2
+858,1997,Full-time employment,Males,Quebec,1564.7
+859,1997,Full-time employment,Males,Saskatchewan,226.1
+860,1997,Part-time employment ,Females,Alberta,197.0
+861,1997,Part-time employment ,Females,British Columbia,263.7
+862,1997,Part-time employment ,Females,Manitoba,80.1
+863,1997,Part-time employment ,Females,New Brunswick,41.3
+864,1997,Part-time employment ,Females,Newfoundland and Labrador,22.9
+865,1997,Part-time employment ,Females,Nova Scotia,57.8
+866,1997,Part-time employment ,Females,Ontario,677.0
+867,1997,Part-time employment ,Females,Prince Edward Island,7.7
+868,1997,Part-time employment ,Females,Quebec,391.8
+869,1997,Part-time employment ,Females,Saskatchewan,69.6
+870,1997,Part-time employment ,Males,Alberta,67.7
+871,1997,Part-time employment ,Males,British Columbia,117.1
+872,1997,Part-time employment ,Males,Manitoba,31.4
+873,1997,Part-time employment ,Males,New Brunswick,17.4
+874,1997,Part-time employment ,Males,Newfoundland and Labrador,8.5
+875,1997,Part-time employment ,Males,Nova Scotia,22.0
+876,1997,Part-time employment ,Males,Ontario,315.7
+877,1997,Part-time employment ,Males,Prince Edward Island,3.2
+878,1997,Part-time employment ,Males,Quebec,170.7
+879,1997,Part-time employment ,Males,Saskatchewan,25.0
+880,1998,Full-time employment,Females,Alberta,474.0
+881,1998,Full-time employment,Females,British Columbia,577.5
+882,1998,Full-time employment,Females,Manitoba,163.2
+883,1998,Full-time employment,Females,New Brunswick,109.5
+884,1998,Full-time employment,Females,Newfoundland and Labrador,66.9
+885,1998,Full-time employment,Females,Nova Scotia,130.8
+886,1998,Full-time employment,Females,Ontario,1782.4
+887,1998,Full-time employment,Females,Prince Edward Island,21.5
+888,1998,Full-time employment,Females,Quebec,1050.8
+889,1998,Full-time employment,Females,Saskatchewan,148.3
+890,1998,Full-time employment,Males,Alberta,744.2
+891,1998,Full-time employment,Males,British Columbia,880.9
+892,1998,Full-time employment,Males,Manitoba,262.1
+893,1998,Full-time employment,Males,New Brunswick,152.4
+894,1998,Full-time employment,Males,Newfoundland and Labrador,91.5
+895,1998,Full-time employment,Males,Nova Scotia,183.9
+896,1998,Full-time employment,Males,Ontario,2608.3
+897,1998,Full-time employment,Males,Prince Edward Island,27.2
+898,1998,Full-time employment,Males,Quebec,1580.0
+899,1998,Full-time employment,Males,Saskatchewan,230.6
+900,1998,Part-time employment ,Females,Alberta,195.2
+901,1998,Part-time employment ,Females,British Columbia,283.0
+902,1998,Part-time employment ,Females,Manitoba,76.6
+903,1998,Part-time employment ,Females,New Brunswick,34.7
+904,1998,Part-time employment ,Females,Newfoundland and Labrador,22.2
+905,1998,Part-time employment ,Females,Nova Scotia,53.6
+906,1998,Part-time employment ,Females,Ontario,681.1
+907,1998,Part-time employment ,Females,Prince Edward Island,6.9
+908,1998,Part-time employment ,Females,Quebec,358.9
+909,1998,Part-time employment ,Females,Saskatchewan,64.7
+910,1998,Part-time employment ,Males,Alberta,78.9
+911,1998,Part-time employment ,Males,British Columbia,113.6
+912,1998,Part-time employment ,Males,Manitoba,29.6
+913,1998,Part-time employment ,Males,New Brunswick,12.9
+914,1998,Part-time employment ,Males,Newfoundland and Labrador,11.0
+915,1998,Part-time employment ,Males,Nova Scotia,24.0
+916,1998,Part-time employment ,Males,Ontario,312.4
+917,1998,Part-time employment ,Males,Prince Edward Island,3.5
+918,1998,Part-time employment ,Males,Quebec,185.3
+919,1998,Part-time employment ,Males,Saskatchewan,30.6
+920,1999,Full-time employment,Females,Alberta,477.4
+921,1999,Full-time employment,Females,British Columbia,617.5
+922,1999,Full-time employment,Females,Manitoba,170.3
+923,1999,Full-time employment,Females,New Brunswick,113.7
+924,1999,Full-time employment,Females,Newfoundland and Labrador,70.7
+925,1999,Full-time employment,Females,Nova Scotia,131.5
+926,1999,Full-time employment,Females,Ontario,1843.4
+927,1999,Full-time employment,Females,Prince Edward Island,21.0
+928,1999,Full-time employment,Females,Quebec,1086.9
+929,1999,Full-time employment,Females,Saskatchewan,144.1
+930,1999,Full-time employment,Males,Alberta,758.5
+931,1999,Full-time employment,Males,British Columbia,876.7
+932,1999,Full-time employment,Males,Manitoba,260.7
+933,1999,Full-time employment,Males,New Brunswick,159.8
+934,1999,Full-time employment,Males,Newfoundland and Labrador,99.2
+935,1999,Full-time employment,Males,Nova Scotia,190.9
+936,1999,Full-time employment,Males,Ontario,2665.8
+937,1999,Full-time employment,Males,Prince Edward Island,27.7
+938,1999,Full-time employment,Males,Quebec,1650.2
+939,1999,Full-time employment,Males,Saskatchewan,226.2
+940,1999,Part-time employment ,Females,Alberta,216.4
+941,1999,Part-time employment ,Females,British Columbia,264.7
+942,1999,Part-time employment ,Females,Manitoba,77.8
+943,1999,Part-time employment ,Females,New Brunswick,36.7
+944,1999,Part-time employment ,Females,Newfoundland and Labrador,19.9
+945,1999,Part-time employment ,Females,Nova Scotia,56.0
+946,1999,Part-time employment ,Females,Ontario,732.5
+947,1999,Part-time employment ,Females,Prince Edward Island,7.3
+948,1999,Part-time employment ,Females,Quebec,404.7
+949,1999,Part-time employment ,Females,Saskatchewan,69.1
+950,1999,Part-time employment ,Males,Alberta,75.9
+951,1999,Part-time employment ,Males,British Columbia,132.4
+952,1999,Part-time employment ,Males,Manitoba,28.5
+953,1999,Part-time employment ,Males,New Brunswick,15.2
+954,1999,Part-time employment ,Males,Newfoundland and Labrador,8.4
+955,1999,Part-time employment ,Males,Nova Scotia,22.6
+956,1999,Part-time employment ,Males,Ontario,312.4
+957,1999,Part-time employment ,Males,Prince Edward Island,3.1
+958,1999,Part-time employment ,Males,Quebec,170.6
+959,1999,Part-time employment ,Males,Saskatchewan,27.0
+960,2000,Full-time employment,Females,Alberta,491.3
+961,2000,Full-time employment,Females,British Columbia,615.3
+962,2000,Full-time employment,Females,Manitoba,180.6
+963,2000,Full-time employment,Females,New Brunswick,114.7
+964,2000,Full-time employment,Females,Newfoundland and Labrador,71.2
+965,2000,Full-time employment,Females,Nova Scotia,142.6
+966,2000,Full-time employment,Females,Ontario,1943.3
+967,2000,Full-time employment,Females,Prince Edward Island,23.5
+968,2000,Full-time employment,Females,Quebec,1144.8
+969,2000,Full-time employment,Females,Saskatchewan,150.0
+970,2000,Full-time employment,Males,Alberta,779.0
+971,2000,Full-time employment,Males,British Columbia,916.0
+972,2000,Full-time employment,Males,Manitoba,267.3
+973,2000,Full-time employment,Males,New Brunswick,160.5
+974,2000,Full-time employment,Males,Newfoundland and Labrador,95.7
+975,2000,Full-time employment,Males,Nova Scotia,194.4
+976,2000,Full-time employment,Males,Ontario,2779.7
+977,2000,Full-time employment,Males,Prince Edward Island,29.3
+978,2000,Full-time employment,Males,Quebec,1677.5
+979,2000,Full-time employment,Males,Saskatchewan,230.0
+980,2000,Part-time employment ,Females,Alberta,213.3
+981,2000,Part-time employment ,Females,British Columbia,281.7
+982,2000,Part-time employment ,Females,Manitoba,72.1
+983,2000,Part-time employment ,Females,New Brunswick,37.8
+984,2000,Part-time employment ,Females,Newfoundland and Labrador,22.7
+985,2000,Part-time employment ,Females,Nova Scotia,52.9
+986,2000,Part-time employment ,Females,Ontario,695.3
+987,2000,Part-time employment ,Females,Prince Edward Island,6.4
+988,2000,Part-time employment ,Females,Quebec,389.0
+989,2000,Part-time employment ,Females,Saskatchewan,69.3
+990,2000,Part-time employment ,Males,Alberta,85.1
+991,2000,Part-time employment ,Males,British Columbia,113.4
+992,2000,Part-time employment ,Males,Manitoba,29.2
+993,2000,Part-time employment ,Males,New Brunswick,15.4
+994,2000,Part-time employment ,Males,Newfoundland and Labrador,9.7
+995,2000,Part-time employment ,Males,Nova Scotia,22.8
+996,2000,Part-time employment ,Males,Ontario,313.5
+997,2000,Part-time employment ,Males,Prince Edward Island,3.7
+998,2000,Part-time employment ,Males,Quebec,185.0
+999,2000,Part-time employment ,Males,Saskatchewan,27.5
+1000,2001,Full-time employment,Females,Alberta,514.3
+1001,2001,Full-time employment,Females,British Columbia,622.7
+1002,2001,Full-time employment,Females,Manitoba,178.2
+1003,2001,Full-time employment,Females,New Brunswick,122.4
+1004,2001,Full-time employment,Females,Newfoundland and Labrador,75.2
+1005,2001,Full-time employment,Females,Nova Scotia,140.8
+1006,2001,Full-time employment,Females,Ontario,2028.3
+1007,2001,Full-time employment,Females,Prince Edward Island,23.5
+1008,2001,Full-time employment,Females,Quebec,1145.7
+1009,2001,Full-time employment,Females,Saskatchewan,148.5
+1010,2001,Full-time employment,Males,Alberta,799.7
+1011,2001,Full-time employment,Males,British Columbia,912.9
+1012,2001,Full-time employment,Males,Manitoba,262.4
+1013,2001,Full-time employment,Males,New Brunswick,162.1
+1014,2001,Full-time employment,Males,Newfoundland and Labrador,97.7
+1015,2001,Full-time employment,Males,Nova Scotia,195.3
+1016,2001,Full-time employment,Males,Ontario,2829.9
+1017,2001,Full-time employment,Males,Prince Edward Island,29.4
+1018,2001,Full-time employment,Males,Quebec,1679.8
+1019,2001,Full-time employment,Males,Saskatchewan,227.3
+1020,2001,Part-time employment ,Females,Alberta,214.8
+1021,2001,Part-time employment ,Females,British Columbia,277.0
+1022,2001,Part-time employment ,Females,Manitoba,75.7
+1023,2001,Part-time employment ,Females,New Brunswick,36.4
+1024,2001,Part-time employment ,Females,Newfoundland and Labrador,19.7
+1025,2001,Part-time employment ,Females,Nova Scotia,52.1
+1026,2001,Part-time employment ,Females,Ontario,716.2
+1027,2001,Part-time employment ,Females,Prince Edward Island,6.9
+1028,2001,Part-time employment ,Females,Quebec,402.8
+1029,2001,Part-time employment ,Females,Saskatchewan,66.1
+1030,2001,Part-time employment ,Males,Alberta,81.4
+1031,2001,Part-time employment ,Males,British Columbia,112.0
+1032,2001,Part-time employment ,Males,Manitoba,33.4
+1033,2001,Part-time employment ,Males,New Brunswick,12.9
+1034,2001,Part-time employment ,Males,Newfoundland and Labrador,8.8
+1035,2001,Part-time employment ,Males,Nova Scotia,22.4
+1036,2001,Part-time employment ,Males,Ontario,330.5
+1037,2001,Part-time employment ,Males,Prince Edward Island,3.3
+1038,2001,Part-time employment ,Males,Quebec,199.8
+1039,2001,Part-time employment ,Males,Saskatchewan,25.8
+1040,2002,Full-time employment,Females,Alberta,548.9
+1041,2002,Full-time employment,Females,British Columbia,618.9
+1042,2002,Full-time employment,Females,Manitoba,186.9
+1043,2002,Full-time employment,Females,New Brunswick,123.8
+1044,2002,Full-time employment,Females,Newfoundland and Labrador,75.1
+1045,2002,Full-time employment,Females,Nova Scotia,151.2
+1046,2002,Full-time employment,Females,Ontario,2030.9
+1047,2002,Full-time employment,Females,Prince Edward Island,23.6
+1048,2002,Full-time employment,Females,Quebec,1181.9
+1049,2002,Full-time employment,Females,Saskatchewan,147.3
+1050,2002,Full-time employment,Males,Alberta,808.0
+1051,2002,Full-time employment,Males,British Columbia,880.8
+1052,2002,Full-time employment,Males,Manitoba,265.5
+1053,2002,Full-time employment,Males,New Brunswick,158.2
+1054,2002,Full-time employment,Males,Newfoundland and Labrador,97.5
+1055,2002,Full-time employment,Males,Nova Scotia,190.1
+1056,2002,Full-time employment,Males,Ontario,2811.4
+1057,2002,Full-time employment,Males,Prince Edward Island,29.5
+1058,2002,Full-time employment,Males,Quebec,1682.2
+1059,2002,Full-time employment,Males,Saskatchewan,217.0
+1060,2002,Part-time employment ,Females,Alberta,203.1
+1061,2002,Part-time employment ,Females,British Columbia,290.1
+1062,2002,Part-time employment ,Females,Manitoba,75.0
+1063,2002,Part-time employment ,Females,New Brunswick,37.9
+1064,2002,Part-time employment ,Females,Newfoundland and Labrador,23.3
+1065,2002,Part-time employment ,Females,Nova Scotia,53.4
+1066,2002,Part-time employment ,Females,Ontario,747.3
+1067,2002,Part-time employment ,Females,Prince Edward Island,7.5
+1068,2002,Part-time employment ,Females,Quebec,420.8
+1069,2002,Part-time employment ,Females,Saskatchewan,61.4
+1070,2002,Part-time employment ,Males,Alberta,90.9
+1071,2002,Part-time employment ,Males,British Columbia,134.2
+1072,2002,Part-time employment ,Males,Manitoba,31.3
+1073,2002,Part-time employment ,Males,New Brunswick,15.1
+1074,2002,Part-time employment ,Males,Newfoundland and Labrador,9.8
+1075,2002,Part-time employment ,Males,Nova Scotia,25.2
+1076,2002,Part-time employment ,Males,Ontario,336.6
+1077,2002,Part-time employment ,Males,Prince Edward Island,3.0
+1078,2002,Part-time employment ,Males,Quebec,198.1
+1079,2002,Part-time employment ,Males,Saskatchewan,30.9
+1080,2003,Full-time employment,Females,Alberta,555.9
+1081,2003,Full-time employment,Females,British Columbia,603.7
+1082,2003,Full-time employment,Females,Manitoba,184.7
+1083,2003,Full-time employment,Females,New Brunswick,128.2
+1084,2003,Full-time employment,Females,Newfoundland and Labrador,76.6
+1085,2003,Full-time employment,Females,Nova Scotia,148.1
+1086,2003,Full-time employment,Females,Ontario,2109.2
+1087,2003,Full-time employment,Females,Prince Edward Island,24.3
+1088,2003,Full-time employment,Females,Quebec,1232.6
+1089,2003,Full-time employment,Females,Saskatchewan,159.4
+1090,2003,Full-time employment,Males,Alberta,839.2
+1091,2003,Full-time employment,Males,British Columbia,902.0
+1092,2003,Full-time employment,Males,Manitoba,267.4
+1093,2003,Full-time employment,Males,New Brunswick,162.7
+1094,2003,Full-time employment,Males,Newfoundland and Labrador,100.4
+1095,2003,Full-time employment,Males,Nova Scotia,198.2
+1096,2003,Full-time employment,Males,Ontario,2922.2
+1097,2003,Full-time employment,Males,Prince Edward Island,29.5
+1098,2003,Full-time employment,Males,Quebec,1731.1
+1099,2003,Full-time employment,Males,Saskatchewan,220.9
+1100,2003,Part-time employment ,Females,Alberta,213.8
+1101,2003,Part-time employment ,Females,British Columbia,321.5
+1102,2003,Part-time employment ,Females,Manitoba,77.9
+1103,2003,Part-time employment ,Females,New Brunswick,39.1
+1104,2003,Part-time employment ,Females,Newfoundland and Labrador,22.6
+1105,2003,Part-time employment ,Females,Nova Scotia,60.0
+1106,2003,Part-time employment ,Females,Ontario,772.5
+1107,2003,Part-time employment ,Females,Prince Edward Island,7.1
+1108,2003,Part-time employment ,Females,Quebec,447.0
+1109,2003,Part-time employment ,Females,Saskatchewan,62.9
+1110,2003,Part-time employment ,Males,Alberta,93.2
+1111,2003,Part-time employment ,Males,British Columbia,143.8
+1112,2003,Part-time employment ,Males,Manitoba,34.2
+1113,2003,Part-time employment ,Males,New Brunswick,15.0
+1114,2003,Part-time employment ,Males,Newfoundland and Labrador,9.3
+1115,2003,Part-time employment ,Males,Nova Scotia,23.4
+1116,2003,Part-time employment ,Males,Ontario,360.9
+1117,2003,Part-time employment ,Males,Prince Edward Island,4.0
+1118,2003,Part-time employment ,Males,Quebec,204.7
+1119,2003,Part-time employment ,Males,Saskatchewan,31.6
+1120,2004,Full-time employment,Females,Alberta,576.3
+1121,2004,Full-time employment,Females,British Columbia,654.7
+1122,2004,Full-time employment,Females,Manitoba,189.9
+1123,2004,Full-time employment,Females,New Brunswick,127.0
+1124,2004,Full-time employment,Females,Newfoundland and Labrador,82.3
+1125,2004,Full-time employment,Females,Nova Scotia,150.6
+1126,2004,Full-time employment,Females,Ontario,2176.9
+1127,2004,Full-time employment,Females,Prince Edward Island,24.8
+1128,2004,Full-time employment,Females,Quebec,1244.5
+1129,2004,Full-time employment,Females,Saskatchewan,156.8
+1130,2004,Full-time employment,Males,Alberta,863.6
+1131,2004,Full-time employment,Males,British Columbia,926.7
+1132,2004,Full-time employment,Males,Manitoba,266.5
+1133,2004,Full-time employment,Males,New Brunswick,162.0
+1134,2004,Full-time employment,Males,Newfoundland and Labrador,98.9
+1135,2004,Full-time employment,Males,Nova Scotia,198.8
+1136,2004,Full-time employment,Males,Ontario,2983.1
+1137,2004,Full-time employment,Males,Prince Edward Island,30.5
+1138,2004,Full-time employment,Males,Quebec,1711.7
+1139,2004,Full-time employment,Males,Saskatchewan,228.8
+1140,2004,Part-time employment ,Females,Alberta,220.1
+1141,2004,Part-time employment ,Females,British Columbia,302.5
+1142,2004,Part-time employment ,Females,Manitoba,76.3
+1143,2004,Part-time employment ,Females,New Brunswick,39.6
+1144,2004,Part-time employment ,Females,Newfoundland and Labrador,21.4
+1145,2004,Part-time employment ,Females,Nova Scotia,58.6
+1146,2004,Part-time employment ,Females,Ontario,773.2
+1147,2004,Part-time employment ,Females,Prince Edward Island,7.7
+1148,2004,Part-time employment ,Females,Quebec,455.7
+1149,2004,Part-time employment ,Females,Saskatchewan,64.1
+1150,2004,Part-time employment ,Males,Alberta,95.0
+1151,2004,Part-time employment ,Males,British Columbia,139.7
+1152,2004,Part-time employment ,Males,Manitoba,36.7
+1153,2004,Part-time employment ,Males,New Brunswick,15.6
+1154,2004,Part-time employment ,Males,Newfoundland and Labrador,10.0
+1155,2004,Part-time employment ,Males,Nova Scotia,25.9
+1156,2004,Part-time employment ,Males,Ontario,360.6
+1157,2004,Part-time employment ,Males,Prince Edward Island,2.9
+1158,2004,Part-time employment ,Males,Quebec,226.2
+1159,2004,Part-time employment ,Males,Saskatchewan,25.1
+1160,2005,Full-time employment,Females,Alberta,587.2
+1161,2005,Full-time employment,Females,British Columbia,668.0
+1162,2005,Full-time employment,Females,Manitoba,193.6
+1163,2005,Full-time employment,Females,New Brunswick,131.4
+1164,2005,Full-time employment,Females,Newfoundland and Labrador,79.7
+1165,2005,Full-time employment,Females,Nova Scotia,157.0
+1166,2005,Full-time employment,Females,Ontario,2144.6
+1167,2005,Full-time employment,Females,Prince Edward Island,25.8
+1168,2005,Full-time employment,Females,Quebec,1285.2
+1169,2005,Full-time employment,Females,Saskatchewan,159.7
+1170,2005,Full-time employment,Males,Alberta,887.9
+1171,2005,Full-time employment,Males,British Columbia,978.3
+1172,2005,Full-time employment,Males,Manitoba,273.5
+1173,2005,Full-time employment,Males,New Brunswick,160.4
+1174,2005,Full-time employment,Males,Newfoundland and Labrador,102.1
+1175,2005,Full-time employment,Males,Nova Scotia,201.4
+1176,2005,Full-time employment,Males,Ontario,2995.7
+1177,2005,Full-time employment,Males,Prince Edward Island,31.0
+1178,2005,Full-time employment,Males,Quebec,1755.7
+1179,2005,Full-time employment,Males,Saskatchewan,229.7
+1180,2005,Part-time employment ,Females,Alberta,228.5
+1181,2005,Part-time employment ,Females,British Columbia,295.7
+1182,2005,Part-time employment ,Females,Manitoba,76.9
+1183,2005,Part-time employment ,Females,New Brunswick,38.8
+1184,2005,Part-time employment ,Females,Newfoundland and Labrador,21.0
+1185,2005,Part-time employment ,Females,Nova Scotia,55.6
+1186,2005,Part-time employment ,Females,Ontario,826.9
+1187,2005,Part-time employment ,Females,Prince Edward Island,8.0
+1188,2005,Part-time employment ,Females,Quebec,445.6
+1189,2005,Part-time employment ,Females,Saskatchewan,67.8
+1190,2005,Part-time employment ,Males,Alberta,92.6
+1191,2005,Part-time employment ,Males,British Columbia,113.5
+1192,2005,Part-time employment ,Males,Manitoba,31.9
+1193,2005,Part-time employment ,Males,New Brunswick,16.1
+1194,2005,Part-time employment ,Males,Newfoundland and Labrador,11.0
+1195,2005,Part-time employment ,Males,Nova Scotia,26.2
+1196,2005,Part-time employment ,Males,Ontario,361.5
+1197,2005,Part-time employment ,Males,Prince Edward Island,3.2
+1198,2005,Part-time employment ,Males,Quebec,218.7
+1199,2005,Part-time employment ,Males,Saskatchewan,27.9
+1200,2006,Full-time employment,Females,Alberta,619.5
+1201,2006,Full-time employment,Females,British Columbia,698.6
+1202,2006,Full-time employment,Females,Manitoba,189.4
+1203,2006,Full-time employment,Females,New Brunswick,130.3
+1204,2006,Full-time employment,Females,Newfoundland and Labrador,79.9
+1205,2006,Full-time employment,Females,Nova Scotia,160.0
+1206,2006,Full-time employment,Females,Ontario,2257.9
+1207,2006,Full-time employment,Females,Prince Edward Island,26.2
+1208,2006,Full-time employment,Females,Quebec,1279.5
+1209,2006,Full-time employment,Females,Saskatchewan,160.6
+1210,2006,Full-time employment,Males,Alberta,925.7
+1211,2006,Full-time employment,Males,British Columbia,987.0
+1212,2006,Full-time employment,Males,Manitoba,271.3
+1213,2006,Full-time employment,Males,New Brunswick,160.9
+1214,2006,Full-time employment,Males,Newfoundland and Labrador,96.5
+1215,2006,Full-time employment,Males,Nova Scotia,198.0
+1216,2006,Full-time employment,Males,Ontario,3002.5
+1217,2006,Full-time employment,Males,Prince Edward Island,30.9
+1218,2006,Full-time employment,Males,Quebec,1763.2
+1219,2006,Full-time employment,Males,Saskatchewan,224.5
+1220,2006,Part-time employment ,Females,Alberta,219.3
+1221,2006,Part-time employment ,Females,British Columbia,302.4
+1222,2006,Part-time employment ,Females,Manitoba,82.7
+1223,2006,Part-time employment ,Females,New Brunswick,42.3
+1224,2006,Part-time employment ,Females,Newfoundland and Labrador,22.6
+1225,2006,Part-time employment ,Females,Nova Scotia,58.2
+1226,2006,Part-time employment ,Females,Ontario,759.3
+1227,2006,Part-time employment ,Females,Prince Edward Island,7.5
+1228,2006,Part-time employment ,Females,Quebec,454.3
+1229,2006,Part-time employment ,Females,Saskatchewan,65.0
+1230,2006,Part-time employment ,Males,Alberta,87.7
+1231,2006,Part-time employment ,Males,British Columbia,125.9
+1232,2006,Part-time employment ,Males,Manitoba,37.5
+1233,2006,Part-time employment ,Males,New Brunswick,18.9
+1234,2006,Part-time employment ,Males,Newfoundland and Labrador,9.8
+1235,2006,Part-time employment ,Males,Nova Scotia,25.0
+1236,2006,Part-time employment ,Males,Ontario,385.9
+1237,2006,Part-time employment ,Males,Prince Edward Island,3.1
+1238,2006,Part-time employment ,Males,Quebec,221.6
+1239,2006,Part-time employment ,Males,Saskatchewan,29.4
+1240,2007,Full-time employment,Females,Alberta,662.7
+1241,2007,Full-time employment,Females,British Columbia,729.3
+1242,2007,Full-time employment,Females,Manitoba,196.5
+1243,2007,Full-time employment,Females,New Brunswick,133.7
+1244,2007,Full-time employment,Females,Newfoundland and Labrador,82.2
+1245,2007,Full-time employment,Females,Nova Scotia,170.2
+1246,2007,Full-time employment,Females,Ontario,2285.3
+1247,2007,Full-time employment,Females,Prince Edward Island,25.8
+1248,2007,Full-time employment,Females,Quebec,1323.0
+1249,2007,Full-time employment,Females,Saskatchewan,167.6
+1250,2007,Full-time employment,Males,Alberta,993.4
+1251,2007,Full-time employment,Males,British Columbia,1015.5
+1252,2007,Full-time employment,Males,Manitoba,277.0
+1253,2007,Full-time employment,Males,New Brunswick,161.9
+1254,2007,Full-time employment,Males,Newfoundland and Labrador,100.8
+1255,2007,Full-time employment,Males,Nova Scotia,197.3
+1256,2007,Full-time employment,Males,Ontario,3007.3
+1257,2007,Full-time employment,Males,Prince Edward Island,31.6
+1258,2007,Full-time employment,Males,Quebec,1749.2
+1259,2007,Full-time employment,Males,Saskatchewan,239.9
+1260,2007,Part-time employment ,Females,Alberta,218.2
+1261,2007,Part-time employment ,Females,British Columbia,296.9
+1262,2007,Part-time employment ,Females,Manitoba,77.3
+1263,2007,Part-time employment ,Females,New Brunswick,40.4
+1264,2007,Part-time employment ,Females,Newfoundland and Labrador,22.6
+1265,2007,Part-time employment ,Females,Nova Scotia,53.2
+1266,2007,Part-time employment ,Females,Ontario,821.9
+1267,2007,Part-time employment ,Females,Prince Edward Island,8.4
+1268,2007,Part-time employment ,Females,Quebec,461.4
+1269,2007,Part-time employment ,Females,Saskatchewan,69.5
+1270,2007,Part-time employment ,Males,Alberta,88.6
+1271,2007,Part-time employment ,Males,British Columbia,154.4
+1272,2007,Part-time employment ,Males,Manitoba,34.9
+1273,2007,Part-time employment ,Males,New Brunswick,16.8
+1274,2007,Part-time employment ,Males,Newfoundland and Labrador,9.1
+1275,2007,Part-time employment ,Males,Nova Scotia,27.9
+1276,2007,Part-time employment ,Males,Ontario,385.4
+1277,2007,Part-time employment ,Males,Prince Edward Island,3.5
+1278,2007,Part-time employment ,Males,Quebec,253.4
+1279,2007,Part-time employment ,Males,Saskatchewan,27.6
+1280,2008,Full-time employment,Females,Alberta,686.8
+1281,2008,Full-time employment,Females,British Columbia,726.2
+1282,2008,Full-time employment,Females,Manitoba,200.6
+1283,2008,Full-time employment,Females,New Brunswick,142.0
+1284,2008,Full-time employment,Females,Newfoundland and Labrador,83.2
+1285,2008,Full-time employment,Females,Nova Scotia,163.9
+1286,2008,Full-time employment,Females,Ontario,2318.7
+1287,2008,Full-time employment,Females,Prince Edward Island,26.8
+1288,2008,Full-time employment,Females,Quebec,1352.2
+1289,2008,Full-time employment,Females,Saskatchewan,171.8
+1290,2008,Full-time employment,Males,Alberta,1021.3
+1291,2008,Full-time employment,Males,British Columbia,1052.0
+1292,2008,Full-time employment,Males,Manitoba,285.8
+1293,2008,Full-time employment,Males,New Brunswick,166.8
+1294,2008,Full-time employment,Males,Newfoundland and Labrador,107.0
+1295,2008,Full-time employment,Males,Nova Scotia,201.5
+1296,2008,Full-time employment,Males,Ontario,3045.2
+1297,2008,Full-time employment,Males,Prince Edward Island,30.9
+1298,2008,Full-time employment,Males,Quebec,1803.5
+1299,2008,Full-time employment,Males,Saskatchewan,243.4
+1300,2008,Part-time employment ,Females,Alberta,218.9
+1301,2008,Part-time employment ,Females,British Columbia,318.0
+1302,2008,Part-time employment ,Females,Manitoba,76.0
+1303,2008,Part-time employment ,Females,New Brunswick,35.0
+1304,2008,Part-time employment ,Females,Newfoundland and Labrador,23.1
+1305,2008,Part-time employment ,Females,Nova Scotia,60.4
+1306,2008,Part-time employment ,Females,Ontario,829.9
+1307,2008,Part-time employment ,Females,Prince Edward Island,7.3
+1308,2008,Part-time employment ,Females,Quebec,492.9
+1309,2008,Part-time employment ,Females,Saskatchewan,61.6
+1310,2008,Part-time employment ,Males,Alberta,103.2
+1311,2008,Part-time employment ,Males,British Columbia,145.2
+1312,2008,Part-time employment ,Males,Manitoba,34.9
+1313,2008,Part-time employment ,Males,New Brunswick,16.3
+1314,2008,Part-time employment ,Males,Newfoundland and Labrador,9.5
+1315,2008,Part-time employment ,Males,Nova Scotia,25.9
+1316,2008,Part-time employment ,Males,Ontario,385.0
+1317,2008,Part-time employment ,Males,Prince Edward Island,4.2
+1318,2008,Part-time employment ,Males,Quebec,244.4
+1319,2008,Part-time employment ,Males,Saskatchewan,31.4
+1320,2009,Full-time employment,Females,Alberta,668.9
+1321,2009,Full-time employment,Females,British Columbia,723.6
+1322,2009,Full-time employment,Females,Manitoba,202.9
+1323,2009,Full-time employment,Females,New Brunswick,135.7
+1324,2009,Full-time employment,Females,Newfoundland and Labrador,84.5
+1325,2009,Full-time employment,Females,Nova Scotia,169.5
+1326,2009,Full-time employment,Females,Ontario,2310.2
+1327,2009,Full-time employment,Females,Prince Edward Island,26.0
+1328,2009,Full-time employment,Females,Quebec,1367.3
+1329,2009,Full-time employment,Females,Saskatchewan,177.7
+1330,2009,Full-time employment,Males,Alberta,1033.8
+1331,2009,Full-time employment,Males,British Columbia,1010.9
+1332,2009,Full-time employment,Males,Manitoba,285.1
+1333,2009,Full-time employment,Males,New Brunswick,166.5
+1334,2009,Full-time employment,Males,Newfoundland and Labrador,100.7
+1335,2009,Full-time employment,Males,Nova Scotia,200.2
+1336,2009,Full-time employment,Males,Ontario,2935.1
+1337,2009,Full-time employment,Males,Prince Edward Island,30.2
+1338,2009,Full-time employment,Males,Quebec,1768.5
+1339,2009,Full-time employment,Males,Saskatchewan,247.2
+1340,2009,Part-time employment ,Females,Alberta,252.8
+1341,2009,Part-time employment ,Females,British Columbia,323.9
+1342,2009,Part-time employment ,Females,Manitoba,77.5
+1343,2009,Part-time employment ,Females,New Brunswick,41.5
+1344,2009,Part-time employment ,Females,Newfoundland and Labrador,21.0
+1345,2009,Part-time employment ,Females,Nova Scotia,54.6
+1346,2009,Part-time employment ,Females,Ontario,815.5
+1347,2009,Part-time employment ,Females,Prince Edward Island,7.1
+1348,2009,Part-time employment ,Females,Quebec,483.6
+1349,2009,Part-time employment ,Females,Saskatchewan,68.6
+1350,2009,Part-time employment ,Males,Alberta,104.0
+1351,2009,Part-time employment ,Males,British Columbia,147.9
+1352,2009,Part-time employment ,Males,Manitoba,34.5
+1353,2009,Part-time employment ,Males,New Brunswick,20.6
+1354,2009,Part-time employment ,Males,Newfoundland and Labrador,9.1
+1355,2009,Part-time employment ,Males,Nova Scotia,25.1
+1356,2009,Part-time employment ,Males,Ontario,419.6
+1357,2009,Part-time employment ,Males,Prince Edward Island,3.3
+1358,2009,Part-time employment ,Males,Quebec,235.5
+1359,2009,Part-time employment ,Males,Saskatchewan,33.0
+1360,2010,Full-time employment,Females,Alberta,665.4
+1361,2010,Full-time employment,Females,British Columbia,719.2
+1362,2010,Full-time employment,Females,Manitoba,201.7
+1363,2010,Full-time employment,Females,New Brunswick,137.9
+1364,2010,Full-time employment,Females,Newfoundland and Labrador,86.7
+1365,2010,Full-time employment,Females,Nova Scotia,164.2
+1366,2010,Full-time employment,Females,Ontario,2341.7
+1367,2010,Full-time employment,Females,Prince Edward Island,25.9
+1368,2010,Full-time employment,Females,Quebec,1366.9
+1369,2010,Full-time employment,Females,Saskatchewan,180.1
+1370,2010,Full-time employment,Males,Alberta,1002.9
+1371,2010,Full-time employment,Males,British Columbia,997.6
+1372,2010,Full-time employment,Males,Manitoba,280.7
+1373,2010,Full-time employment,Males,New Brunswick,167.0
+1374,2010,Full-time employment,Males,Newfoundland and Labrador,99.9
+1375,2010,Full-time employment,Males,Nova Scotia,194.1
+1376,2010,Full-time employment,Males,Ontario,2893.4
+1377,2010,Full-time employment,Males,Prince Edward Island,31.2
+1378,2010,Full-time employment,Males,Quebec,1767.6
+1379,2010,Full-time employment,Males,Saskatchewan,253.0
+1380,2010,Part-time employment ,Females,Alberta,258.9
+1381,2010,Part-time employment ,Females,British Columbia,336.4
+1382,2010,Part-time employment ,Females,Manitoba,82.5
+1383,2010,Part-time employment ,Females,New Brunswick,37.1
+1384,2010,Part-time employment ,Females,Newfoundland and Labrador,22.0
+1385,2010,Part-time employment ,Females,Nova Scotia,59.8
+1386,2010,Part-time employment ,Females,Ontario,835.6
+1387,2010,Part-time employment ,Females,Prince Edward Island,8.5
+1388,2010,Part-time employment ,Females,Quebec,503.3
+1389,2010,Part-time employment ,Females,Saskatchewan,64.9
+1390,2010,Part-time employment ,Males,Alberta,94.9
+1391,2010,Part-time employment ,Males,British Columbia,156.9
+1392,2010,Part-time employment ,Males,Manitoba,38.1
+1393,2010,Part-time employment ,Males,New Brunswick,15.9
+1394,2010,Part-time employment ,Males,Newfoundland and Labrador,8.7
+1395,2010,Part-time employment ,Males,Nova Scotia,26.5
+1396,2010,Part-time employment ,Males,Ontario,413.0
+1397,2010,Part-time employment ,Males,Prince Edward Island,4.6
+1398,2010,Part-time employment ,Males,Quebec,256.3
+1399,2010,Part-time employment ,Males,Saskatchewan,27.3
+1400,2011,Full-time employment,Females,Alberta,666.9
+1401,2011,Full-time employment,Females,British Columbia,726.5
+1402,2011,Full-time employment,Females,Manitoba,209.1
+1403,2011,Full-time employment,Females,New Brunswick,136.0
+1404,2011,Full-time employment,Females,Newfoundland and Labrador,90.0
+1405,2011,Full-time employment,Females,Nova Scotia,166.4
+1406,2011,Full-time employment,Females,Ontario,2337.8
+1407,2011,Full-time employment,Females,Prince Edward Island,26.9
+1408,2011,Full-time employment,Females,Quebec,1397.7
+1409,2011,Full-time employment,Females,Saskatchewan,180.6
+1410,2011,Full-time employment,Males,Alberta,1010.9
+1411,2011,Full-time employment,Males,British Columbia,993.9
+1412,2011,Full-time employment,Males,Manitoba,283.6
+1413,2011,Full-time employment,Males,New Brunswick,163.6
+1414,2011,Full-time employment,Males,Newfoundland and Labrador,105.3
+1415,2011,Full-time employment,Males,Nova Scotia,200.6
+1416,2011,Full-time employment,Males,Ontario,2994.6
+1417,2011,Full-time employment,Males,Prince Edward Island,31.3
+1418,2011,Full-time employment,Males,Quebec,1805.4
+1419,2011,Full-time employment,Males,Saskatchewan,259.7
+1420,2011,Part-time employment ,Females,Alberta,269.7
+1421,2011,Part-time employment ,Females,British Columbia,333.8
+1422,2011,Part-time employment ,Females,Manitoba,80.1
+1423,2011,Part-time employment ,Females,New Brunswick,39.7
+1424,2011,Part-time employment ,Females,Newfoundland and Labrador,23.4
+1425,2011,Part-time employment ,Females,Nova Scotia,58.0
+1426,2011,Part-time employment ,Females,Ontario,858.7
+1427,2011,Part-time employment ,Females,Prince Edward Island,7.7
+1428,2011,Part-time employment ,Females,Quebec,497.3
+1429,2011,Part-time employment ,Females,Saskatchewan,66.7
+1430,2011,Part-time employment ,Males,Alberta,113.3
+1431,2011,Part-time employment ,Males,British Columbia,162.2
+1432,2011,Part-time employment ,Males,Manitoba,38.4
+1433,2011,Part-time employment ,Males,New Brunswick,18.4
+1434,2011,Part-time employment ,Males,Newfoundland and Labrador,11.7
+1435,2011,Part-time employment ,Males,Nova Scotia,27.4
+1436,2011,Part-time employment ,Males,Ontario,446.9
+1437,2011,Part-time employment ,Males,Prince Edward Island,4.4
+1438,2011,Part-time employment ,Males,Quebec,272.2
+1439,2011,Part-time employment ,Males,Saskatchewan,26.5
+1440,2012,Full-time employment,Females,Alberta,723.7
+1441,2012,Full-time employment,Females,British Columbia,748.2
+1442,2012,Full-time employment,Females,Manitoba,202.3
+1443,2012,Full-time employment,Females,New Brunswick,133.8
+1444,2012,Full-time employment,Females,Newfoundland and Labrador,92.5
+1445,2012,Full-time employment,Females,Nova Scotia,169.5
+1446,2012,Full-time employment,Females,Ontario,2345.0
+1447,2012,Full-time employment,Females,Prince Edward Island,27.3
+1448,2012,Full-time employment,Females,Quebec,1391.5
+1449,2012,Full-time employment,Females,Saskatchewan,182.4
+1450,2012,Full-time employment,Males,Alberta,1073.5
+1451,2012,Full-time employment,Males,British Columbia,998.3
+1452,2012,Full-time employment,Males,Manitoba,288.4
+1453,2012,Full-time employment,Males,New Brunswick,167.1
+1454,2012,Full-time employment,Males,Newfoundland and Labrador,111.4
+1455,2012,Full-time employment,Males,Nova Scotia,201.6
+1456,2012,Full-time employment,Males,Ontario,3040.0
+1457,2012,Full-time employment,Males,Prince Edward Island,32.2
+1458,2012,Full-time employment,Males,Quebec,1785.4
+1459,2012,Full-time employment,Males,Saskatchewan,263.2
+1460,2012,Part-time employment ,Females,Alberta,247.2
+1461,2012,Part-time employment ,Females,British Columbia,334.1
+1462,2012,Part-time employment ,Females,Manitoba,84.7
+1463,2012,Part-time employment ,Females,New Brunswick,41.1
+1464,2012,Part-time employment ,Females,Newfoundland and Labrador,21.5
+1465,2012,Part-time employment ,Females,Nova Scotia,57.6
+1466,2012,Part-time employment ,Females,Ontario,860.4
+1467,2012,Part-time employment ,Females,Prince Edward Island,7.9
+1468,2012,Part-time employment ,Females,Quebec,490.9
+1469,2012,Part-time employment ,Females,Saskatchewan,64.7
+1470,2012,Part-time employment ,Males,Alberta,97.8
+1471,2012,Part-time employment ,Males,British Columbia,167.8
+1472,2012,Part-time employment ,Males,Manitoba,37.5
+1473,2012,Part-time employment ,Males,New Brunswick,15.6
+1474,2012,Part-time employment ,Males,Newfoundland and Labrador,10.2
+1475,2012,Part-time employment ,Males,Nova Scotia,28.3
+1476,2012,Part-time employment ,Males,Ontario,424.4
+1477,2012,Part-time employment ,Males,Prince Edward Island,4.1
+1478,2012,Part-time employment ,Males,Quebec,262.4
+1479,2012,Part-time employment ,Males,Saskatchewan,30.0
+1480,2013,Full-time employment,Females,Alberta,752.5
+1481,2013,Full-time employment,Females,British Columbia,752.8
+1482,2013,Full-time employment,Females,Manitoba,208.4
+1483,2013,Full-time employment,Females,New Brunswick,134.8
+1484,2013,Full-time employment,Females,Newfoundland and Labrador,93.6
+1485,2013,Full-time employment,Females,Nova Scotia,164.6
+1486,2013,Full-time employment,Females,Ontario,2404.1
+1487,2013,Full-time employment,Females,Prince Edward Island,28.1
+1488,2013,Full-time employment,Females,Quebec,1442.1
+1489,2013,Full-time employment,Females,Saskatchewan,187.7
+1490,2013,Full-time employment,Males,Alberta,1102.4
+1491,2013,Full-time employment,Males,British Columbia,1010.7
+1492,2013,Full-time employment,Males,Manitoba,300.3
+1493,2013,Full-time employment,Males,New Brunswick,158.2
+1494,2013,Full-time employment,Males,Newfoundland and Labrador,117.5
+1495,2013,Full-time employment,Males,Nova Scotia,199.7
+1496,2013,Full-time employment,Males,Ontario,3036.2
+1497,2013,Full-time employment,Males,Prince Edward Island,32.7
+1498,2013,Full-time employment,Males,Quebec,1867.0
+1499,2013,Full-time employment,Males,Saskatchewan,273.4
+1500,2013,Part-time employment ,Females,Alberta,246.9
+1501,2013,Part-time employment ,Females,British Columbia,330.9
+1502,2013,Part-time employment ,Females,Manitoba,85.4
+1503,2013,Part-time employment ,Females,New Brunswick,39.9
+1504,2013,Part-time employment ,Females,Newfoundland and Labrador,25.0
+1505,2013,Part-time employment ,Females,Nova Scotia,61.1
+1506,2013,Part-time employment ,Females,Ontario,880.6
+1507,2013,Part-time employment ,Females,Prince Edward Island,9.3
+1508,2013,Part-time employment ,Females,Quebec,509.2
+1509,2013,Part-time employment ,Females,Saskatchewan,68.2
+1510,2013,Part-time employment ,Males,Alberta,101.8
+1511,2013,Part-time employment ,Males,British Columbia,156.5
+1512,2013,Part-time employment ,Males,Manitoba,37.8
+1513,2013,Part-time employment ,Males,New Brunswick,18.3
+1514,2013,Part-time employment ,Males,Newfoundland and Labrador,10.4
+1515,2013,Part-time employment ,Males,Nova Scotia,28.0
+1516,2013,Part-time employment ,Males,Ontario,450.9
+1517,2013,Part-time employment ,Males,Prince Edward Island,4.4
+1518,2013,Part-time employment ,Males,Quebec,253.7
+1519,2013,Part-time employment ,Males,Saskatchewan,32.3
+1520,2014,Full-time employment,Females,Alberta,753.9
+1521,2014,Full-time employment,Females,British Columbia,740.2
+1522,2014,Full-time employment,Females,Manitoba,209.3
+1523,2014,Full-time employment,Females,New Brunswick,135.9
+1524,2014,Full-time employment,Females,Newfoundland and Labrador,90.9
+1525,2014,Full-time employment,Females,Nova Scotia,164.5
+1526,2014,Full-time employment,Females,Ontario,2436.2
+1527,2014,Full-time employment,Females,Prince Edward Island,29.0
+1528,2014,Full-time employment,Females,Quebec,1428.5
+1529,2014,Full-time employment,Females,Saskatchewan,189.2
+1530,2014,Full-time employment,Males,Alberta,1122.6
+1531,2014,Full-time employment,Males,British Columbia,1019.8
+1532,2014,Full-time employment,Males,Manitoba,295.2
+1533,2014,Full-time employment,Males,New Brunswick,166.3
+1534,2014,Full-time employment,Males,Newfoundland and Labrador,114.9
+1535,2014,Full-time employment,Males,Nova Scotia,196.4
+1536,2014,Full-time employment,Males,Ontario,3096.6
+1537,2014,Full-time employment,Males,Prince Edward Island,32.1
+1538,2014,Full-time employment,Males,Quebec,1828.2
+1539,2014,Full-time employment,Males,Saskatchewan,281.8
+1540,2014,Part-time employment ,Females,Alberta,249.3
+1541,2014,Part-time employment ,Females,British Columbia,350.2
+1542,2014,Part-time employment ,Females,Manitoba,83.0
+1543,2014,Part-time employment ,Females,New Brunswick,35.9
+1544,2014,Part-time employment ,Females,Newfoundland and Labrador,25.8
+1545,2014,Part-time employment ,Females,Nova Scotia,59.0
+1546,2014,Part-time employment ,Females,Ontario,862.3
+1547,2014,Part-time employment ,Females,Prince Edward Island,8.3
+1548,2014,Part-time employment ,Females,Quebec,529.1
+1549,2014,Part-time employment ,Females,Saskatchewan,68.0
+1550,2014,Part-time employment ,Males,Alberta,114.0
+1551,2014,Part-time employment ,Males,British Columbia,167.5
+1552,2014,Part-time employment ,Males,Manitoba,38.2
+1553,2014,Part-time employment ,Males,New Brunswick,16.3
+1554,2014,Part-time employment ,Males,Newfoundland and Labrador,10.7
+1555,2014,Part-time employment ,Males,Nova Scotia,27.3
+1556,2014,Part-time employment ,Males,Ontario,447.9
+1557,2014,Part-time employment ,Males,Prince Edward Island,4.4
+1558,2014,Part-time employment ,Males,Quebec,289.2
+1559,2014,Part-time employment ,Males,Saskatchewan,28.4
+1560,2015,Full-time employment,Females,Alberta,770.9
+1561,2015,Full-time employment,Females,British Columbia,783.0
+1562,2015,Full-time employment,Females,Manitoba,221.9
+1563,2015,Full-time employment,Females,New Brunswick,137.8
+1564,2015,Full-time employment,Females,Newfoundland and Labrador,91.2
+1565,2015,Full-time employment,Females,Nova Scotia,171.1
+1566,2015,Full-time employment,Females,Ontario,2420.5
+1567,2015,Full-time employment,Females,Prince Edward Island,28.2
+1568,2015,Full-time employment,Females,Quebec,1432.9
+1569,2015,Full-time employment,Females,Saskatchewan,192.7
+1570,2015,Full-time employment,Males,Alberta,1166.4
+1571,2015,Full-time employment,Males,British Columbia,1041.8
+1572,2015,Full-time employment,Males,Manitoba,296.8
+1573,2015,Full-time employment,Males,New Brunswick,160.3
+1574,2015,Full-time employment,Males,Newfoundland and Labrador,110.9
+1575,2015,Full-time employment,Males,Nova Scotia,197.5
+1576,2015,Full-time employment,Males,Ontario,3097.2
+1577,2015,Full-time employment,Males,Prince Edward Island,33.7
+1578,2015,Full-time employment,Males,Quebec,1816.8
+1579,2015,Full-time employment,Males,Saskatchewan,276.5
+1580,2015,Part-time employment ,Females,Alberta,263.6
+1581,2015,Part-time employment ,Females,British Columbia,304.7
+1582,2015,Part-time employment ,Females,Manitoba,78.2
+1583,2015,Part-time employment ,Females,New Brunswick,39.0
+1584,2015,Part-time employment ,Females,Newfoundland and Labrador,27.1
+1585,2015,Part-time employment ,Females,Nova Scotia,52.8
+1586,2015,Part-time employment ,Females,Ontario,887.5
+1587,2015,Part-time employment ,Females,Prince Edward Island,8.3
+1588,2015,Part-time employment ,Females,Quebec,514.8
+1589,2015,Part-time employment ,Females,Saskatchewan,66.7
+1590,2015,Part-time employment ,Males,Alberta,111.1
+1591,2015,Part-time employment ,Males,British Columbia,163.0
+1592,2015,Part-time employment ,Males,Manitoba,39.4
+1593,2015,Part-time employment ,Males,New Brunswick,17.1
+1594,2015,Part-time employment ,Males,Newfoundland and Labrador,9.5
+1595,2015,Part-time employment ,Males,Nova Scotia,29.1
+1596,2015,Part-time employment ,Males,Ontario,473.5
+1597,2015,Part-time employment ,Males,Prince Edward Island,3.8
+1598,2015,Part-time employment ,Males,Quebec,306.4
+1599,2015,Part-time employment ,Males,Saskatchewan,31.5
+1600,2016,Full-time employment,Females,Alberta,759.0
+1601,2016,Full-time employment,Females,British Columbia,785.5
+1602,2016,Full-time employment,Females,Manitoba,213.1
+1603,2016,Full-time employment,Females,New Brunswick,138.4
+1604,2016,Full-time employment,Females,Newfoundland and Labrador,88.9
+1605,2016,Full-time employment,Females,Nova Scotia,170.7
+1606,2016,Full-time employment,Females,Ontario,2510.3
+1607,2016,Full-time employment,Females,Prince Edward Island,28.2
+1608,2016,Full-time employment,Females,Quebec,1448.2
+1609,2016,Full-time employment,Females,Saskatchewan,192.9
+1610,2016,Full-time employment,Males,Alberta,1099.6
+1611,2016,Full-time employment,Males,British Columbia,1056.9
+1612,2016,Full-time employment,Males,Manitoba,295.6
+1613,2016,Full-time employment,Males,New Brunswick,157.3
+1614,2016,Full-time employment,Males,Newfoundland and Labrador,105.0
+1615,2016,Full-time employment,Males,Nova Scotia,194.5
+1616,2016,Full-time employment,Males,Ontario,3188.1
+1617,2016,Full-time employment,Males,Prince Edward Island,32.2
+1618,2016,Full-time employment,Males,Quebec,1869.2
+1619,2016,Full-time employment,Males,Saskatchewan,279.0
+1620,2016,Part-time employment ,Females,Alberta,278.6
+1621,2016,Part-time employment ,Females,British Columbia,336.1
+1622,2016,Part-time employment ,Females,Manitoba,81.9
+1623,2016,Part-time employment ,Females,New Brunswick,35.5
+1624,2016,Part-time employment ,Females,Newfoundland and Labrador,24.8
+1625,2016,Part-time employment ,Females,Nova Scotia,51.1
+1626,2016,Part-time employment ,Females,Ontario,841.7
+1627,2016,Part-time employment ,Females,Prince Edward Island,7.6
+1628,2016,Part-time employment ,Females,Quebec,510.7
+1629,2016,Part-time employment ,Females,Saskatchewan,68.8
+1630,2016,Part-time employment ,Males,Alberta,136.7
+1631,2016,Part-time employment ,Males,British Columbia,161.3
+1632,2016,Part-time employment ,Males,Manitoba,38.8
+1633,2016,Part-time employment ,Males,New Brunswick,20.7
+1634,2016,Part-time employment ,Males,Newfoundland and Labrador,12.0
+1635,2016,Part-time employment ,Males,Nova Scotia,26.3
+1636,2016,Part-time employment ,Males,Ontario,439.7
+1637,2016,Part-time employment ,Males,Prince Edward Island,4.3
+1638,2016,Part-time employment ,Males,Quebec,273.9
+1639,2016,Part-time employment ,Males,Saskatchewan,31.8
+1640,2017,Full-time employment,Females,Alberta,741.1
+1641,2017,Full-time employment,Females,British Columbia,820.5
+1642,2017,Full-time employment,Females,Manitoba,221.0
+1643,2017,Full-time employment,Females,New Brunswick,138.3
+1644,2017,Full-time employment,Females,Newfoundland and Labrador,89.6
+1645,2017,Full-time employment,Females,Nova Scotia,169.1
+1646,2017,Full-time employment,Females,Ontario,2492.8
+1647,2017,Full-time employment,Females,Prince Edward Island,29.0
+1648,2017,Full-time employment,Females,Quebec,1483.9
+1649,2017,Full-time employment,Females,Saskatchewan,188.6
+1650,2017,Full-time employment,Males,Alberta,1082.9
+1651,2017,Full-time employment,Males,British Columbia,1079.9
+1652,2017,Full-time employment,Males,Manitoba,295.3
+1653,2017,Full-time employment,Males,New Brunswick,162.8
+1654,2017,Full-time employment,Males,Newfoundland and Labrador,101.0
+1655,2017,Full-time employment,Males,Nova Scotia,194.6
+1656,2017,Full-time employment,Males,Ontario,3210.2
+1657,2017,Full-time employment,Males,Prince Edward Island,32.6
+1658,2017,Full-time employment,Males,Quebec,1882.5
+1659,2017,Full-time employment,Males,Saskatchewan,273.8
+1660,2017,Part-time employment ,Females,Alberta,300.3
+1661,2017,Part-time employment ,Females,British Columbia,348.0
+1662,2017,Part-time employment ,Females,Manitoba,80.7
+1663,2017,Part-time employment ,Females,New Brunswick,36.1
+1664,2017,Part-time employment ,Females,Newfoundland and Labrador,25.0
+1665,2017,Part-time employment ,Females,Nova Scotia,57.7
+1666,2017,Part-time employment ,Females,Ontario,886.1
+1667,2017,Part-time employment ,Females,Prince Edward Island,7.4
+1668,2017,Part-time employment ,Females,Quebec,528.2
+1669,2017,Part-time employment ,Females,Saskatchewan,71.3
+1670,2017,Part-time employment ,Males,Alberta,146.2
+1671,2017,Part-time employment ,Males,British Columbia,176.1
+1672,2017,Part-time employment ,Males,Manitoba,39.5
+1673,2017,Part-time employment ,Males,New Brunswick,15.7
+1674,2017,Part-time employment ,Males,Newfoundland and Labrador,12.1
+1675,2017,Part-time employment ,Males,Nova Scotia,30.1
+1676,2017,Part-time employment ,Males,Ontario,485.0
+1677,2017,Part-time employment ,Males,Prince Edward Island,4.0
+1678,2017,Part-time employment ,Males,Quebec,298.1
+1679,2017,Part-time employment ,Males,Saskatchewan,33.4
+1680,2018,Full-time employment,Females,Alberta,776.1
+1681,2018,Full-time employment,Females,British Columbia,842.5
+1682,2018,Full-time employment,Females,Manitoba,214.1
+1683,2018,Full-time employment,Females,New Brunswick,140.4
+1684,2018,Full-time employment,Females,Newfoundland and Labrador,91.3
+1685,2018,Full-time employment,Females,Nova Scotia,171.3
+1686,2018,Full-time employment,Females,Ontario,2598.3
+1687,2018,Full-time employment,Females,Prince Edward Island,28.1
+1688,2018,Full-time employment,Females,Quebec,1516.8
+1689,2018,Full-time employment,Females,Saskatchewan,195.7
+1690,2018,Full-time employment,Males,Alberta,1142.8
+1691,2018,Full-time employment,Males,British Columbia,1107.6
+1692,2018,Full-time employment,Males,Manitoba,297.6
+1693,2018,Full-time employment,Males,New Brunswick,161.5
+1694,2018,Full-time employment,Males,Newfoundland and Labrador,100.0
+1695,2018,Full-time employment,Males,Nova Scotia,200.2
+1696,2018,Full-time employment,Males,Ontario,3258.4
+1697,2018,Full-time employment,Males,Prince Edward Island,34.2
+1698,2018,Full-time employment,Males,Quebec,1970.4
+1699,2018,Full-time employment,Males,Saskatchewan,271.5
+1700,2018,Part-time employment ,Females,Alberta,275.9
+1701,2018,Part-time employment ,Females,British Columbia,352.4
+1702,2018,Part-time employment ,Females,Manitoba,88.6
+1703,2018,Part-time employment ,Females,New Brunswick,33.2
+1704,2018,Part-time employment ,Females,Newfoundland and Labrador,20.6
+1705,2018,Part-time employment ,Females,Nova Scotia,54.4
+1706,2018,Part-time employment ,Females,Ontario,853.4
+1707,2018,Part-time employment ,Females,Prince Edward Island,8.5
+1708,2018,Part-time employment ,Females,Quebec,500.6
+1709,2018,Part-time employment ,Females,Saskatchewan,67.8
+1710,2018,Part-time employment ,Males,Alberta,121.0
+1711,2018,Part-time employment ,Males,British Columbia,179.7
+1712,2018,Part-time employment ,Males,Manitoba,42.3
+1713,2018,Part-time employment ,Males,New Brunswick,16.3
+1714,2018,Part-time employment ,Males,Newfoundland and Labrador,12.8
+1715,2018,Part-time employment ,Males,Nova Scotia,27.6
+1716,2018,Part-time employment ,Males,Ontario,461.6
+1717,2018,Part-time employment ,Males,Prince Edward Island,4.3
+1718,2018,Part-time employment ,Males,Quebec,273.8
+1719,2018,Part-time employment ,Males,Saskatchewan,33.3
+1720,2019,Full-time employment,Females,Alberta,777.8
+1721,2019,Full-time employment,Females,British Columbia,844.1
+1722,2019,Full-time employment,Females,Manitoba,223.6
+1723,2019,Full-time employment,Females,New Brunswick,142.0
+1724,2019,Full-time employment,Females,Newfoundland and Labrador,91.8
+1725,2019,Full-time employment,Females,Nova Scotia,172.7
+1726,2019,Full-time employment,Females,Ontario,2652.5
+1727,2019,Full-time employment,Females,Prince Edward Island,30.1
+1728,2019,Full-time employment,Females,Quebec,1538.7
+1729,2019,Full-time employment,Females,Saskatchewan,196.9
+1730,2019,Full-time employment,Males,Alberta,1126.6
+1731,2019,Full-time employment,Males,British Columbia,1126.8
+1732,2019,Full-time employment,Males,Manitoba,303.6
+1733,2019,Full-time employment,Males,New Brunswick,162.2
+1734,2019,Full-time employment,Males,Newfoundland and Labrador,104.7
+1735,2019,Full-time employment,Males,Nova Scotia,208.9
+1736,2019,Full-time employment,Males,Ontario,3318.2
+1737,2019,Full-time employment,Males,Prince Edward Island,34.1
+1738,2019,Full-time employment,Males,Quebec,1953.4
+1739,2019,Full-time employment,Males,Saskatchewan,275.4
+1740,2019,Part-time employment ,Females,Alberta,296.2
+1741,2019,Part-time employment ,Females,British Columbia,380.6
+1742,2019,Part-time employment ,Females,Manitoba,86.3
+1743,2019,Part-time employment ,Females,New Brunswick,34.2
+1744,2019,Part-time employment ,Females,Newfoundland and Labrador,21.9
+1745,2019,Part-time employment ,Females,Nova Scotia,57.6
+1746,2019,Part-time employment ,Females,Ontario,861.7
+1747,2019,Part-time employment ,Females,Prince Edward Island,7.5
+1748,2019,Part-time employment ,Females,Quebec,512.8
+1749,2019,Part-time employment ,Females,Saskatchewan,67.3
+1750,2019,Part-time employment ,Males,Alberta,125.8
+1751,2019,Part-time employment ,Males,British Columbia,192.6
+1752,2019,Part-time employment ,Males,Manitoba,44.2
+1753,2019,Part-time employment ,Males,New Brunswick,16.6
+1754,2019,Part-time employment ,Males,Newfoundland and Labrador,14.1
+1755,2019,Part-time employment ,Males,Nova Scotia,25.8
+1756,2019,Part-time employment ,Males,Ontario,509.5
+1757,2019,Part-time employment ,Males,Prince Edward Island,3.7
+1758,2019,Part-time employment ,Males,Quebec,294.7
+1759,2019,Part-time employment ,Males,Saskatchewan,36.6

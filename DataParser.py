@@ -5,22 +5,26 @@ Parsing data to be visualized in tableau
 # import necessary libraries
 import pandas as pd
 
+# importing the raw data
 df = pd.read_csv("./data/EmploymentRateCanada.csv")
 
-result_df = df.drop_duplicates(subset=['month'], keep='first')
-result_df.drop('variable', axis=1, inplace=True)
-result_df.drop('sex', axis=1, inplace=True)
-result_df['month'] = result_df['month'].str.slice(start=0, stop=4)
-result_df.rename(columns={'month': 'year'}, inplace=True)
-aggregation_functions = {'Alberta': 'sum', 'British Columbia': 'sum', 
-                         'Manitoba': 'sum', 'New Brunswick': 'sum',
-                         'Newfoundland and Labrador': 'sum', 'Nova Scotia': 'sum', 
-                         'Ontario': 'sum', 'Prince Edward Island': 'sum',
-                         'Quebec': 'sum', 'Saskatchewan': 'sum'}
-result_df = result_df.groupby(result_df['year']).aggregate(aggregation_functions)
-result_df.to_csv("./data/TimeToEmployment.csv")
+# our new data will not have a column for each province. Instead, each province will be put into one 'province' column
+parsed_df = pd.DataFrame(columns=['year', 'typeOfEmployment', 'sex', 'province', 'numEmployed'])
 
+# To avoid overlapping data, will omit rows that group together types of employment, and sex
+temp_df = df.loc[(df['variable'] != 'Employment') & (df['sex'] != 'Both sexes')]
 
+provinces:list[str] = ['Alberta', 'British Columbia', 'Manitoba', 'New Brunswick',
+            'Newfoundland and Labrador', 'Nova Scotia', 'Ontario', 'Prince Edward Island',
+            'Quebec', 'Saskatchewan']
 
-recent_employment = result_df.iloc[-1]
-recent_employment.to_csv("test")
+for _, row in temp_df.iterrows():
+    # Could take the average of each year, but for simplicity will just take the first month (January) of each year
+    if row['month'][-2:] == "01":
+        for province in provinces: 
+            parsed_df.loc[len(parsed_df)] = [row['month'][:4], row['variable'], row['sex'], province, row[province]]
+
+print(parsed_df)
+
+# create a new csv with the parsed data to be used in tableau
+parsed_df.to_csv('./data/EmploymentRateCanadaParsed.csv')
